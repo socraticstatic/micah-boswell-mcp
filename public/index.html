@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Micah Boswell MCP server</title>
+<meta name="description" content="A public MCP server that answers questions about Micah Boswell, product design leader in Dallas, Texas: work history, writing, poems, photography, mentoring and verified profiles.">
+<link rel="canonical" href="https://micah-boswell-mcp.vercel.app/">
+<meta name="author" content="Micah Boswell">
+<meta name="robots" content="index, follow, max-snippet:-1">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Micah Boswell MCP server">
+<meta property="og:description" content="A public MCP server that answers questions about Micah Boswell, product design leader in Dallas, Texas. Connect from Claude, ChatGPT or Cursor.">
+<meta property="og:url" content="https://micah-boswell-mcp.vercel.app/">
+<meta property="og:site_name" content="Micah Boswell MCP server">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@TheWizardof0dd">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2307070a'/%3E%3Ctext x='16' y='22' text-anchor='middle' font-family='monospace' font-size='18' fill='%23e040fb'%3EMB%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,700;1,400&display=swap">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://micah-boswell-mcp.vercel.app/#app",
+  "name": "Micah Boswell MCP server",
+  "alternateName": "io.github.socraticstatic/micah-boswell",
+  "url": "https://micah-boswell-mcp.vercel.app/",
+  "description": "A public Model Context Protocol server that answers questions about Micah Boswell, product design leader in Dallas, Texas: work history, writing, poems, photography, mentoring and verified profiles.",
+  "applicationCategory": "DeveloperApplication",
+  "applicationSubCategory": "Model Context Protocol server",
+  "operatingSystem": "Any",
+  "softwareVersion": "1.0.0",
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "license": "https://opensource.org/license/mit",
+  "sameAs": ["https://github.com/socraticstatic/micah-boswell-mcp"],
+  "inLanguage": "en",
+  "author": { "@type": "Person", "@id": "https://micahboswell.vercel.app/#person", "name": "Micah Boswell", "url": "https://micahboswell.vercel.app/" },
+  "about": { "@id": "https://micahboswell.vercel.app/#person" }
+}
+</script>
+<style>
+:root { color-scheme: dark; --bg: #07070a; --ink: #d6cfc3; --ink-strong: #e8e4dc; --ink-soft: #8b857a; --line: #2e2c33; --accent: #e040fb; --accent-2: #2dd4ff; --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, "Cascadia Mono", monospace; }
+* { box-sizing: border-box; }
+html { background: var(--bg); }
+body { margin: 0; padding: 0 16px 6rem; background: var(--bg); color: var(--ink); font-family: var(--mono); font-size: 0.95rem; line-height: 1.8; -webkit-font-smoothing: antialiased; }
+a { color: var(--ink-strong); text-decoration: none; border-bottom: 1px solid var(--line); }
+a:hover, a:focus-visible { color: var(--accent); border-bottom-color: var(--accent); outline: none; }
+.wrap { max-width: 72ch; margin: 0 auto; }
+nav.site { display: flex; flex-wrap: wrap; gap: 1.25rem; padding: 1.5rem 0 0; font-size: 0.74rem; letter-spacing: 0.08em; text-transform: uppercase; }
+nav.site a { border-bottom: 0; color: var(--ink-soft); }
+nav.site a[aria-current="page"], nav.site a:hover { color: var(--accent); }
+header { padding: 3rem 0 2rem; }
+.eyebrow { color: var(--accent); font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase; margin: 0 0 1rem; }
+h1 { font-weight: 300; font-size: clamp(2rem, 6.5vw, 3.2rem); line-height: 1.05; margin: 0 0 0.75rem; color: var(--ink-strong); letter-spacing: -0.01em; }
+.dek { margin: 0; color: var(--ink-soft); max-width: 52ch; }
+.dek b { color: var(--ink); font-weight: 400; }
+section { padding: 2rem 0 0.5rem; border-top: 1px solid var(--line); margin-top: 2rem; }
+h2 { color: var(--accent); font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 400; margin: 0 0 1.1rem; }
+h3 { color: var(--ink-strong); font-size: 1rem; font-weight: 400; margin: 1.5rem 0 0.25rem; }
+p { margin: 0 0 1rem; max-width: 66ch; }
+.lede { font-size: 1.08rem; color: var(--ink-strong); line-height: 1.75; }
+pre { margin: 0 0 1.25rem; padding: 0.9rem 1.1rem; background: #0c0c12; border: 1px solid var(--line); border-left: 2px solid var(--accent-2); overflow-x: auto; font-size: 0.84rem; line-height: 1.6; color: var(--ink-strong); }
+code { font-family: var(--mono); }
+p code, li code { color: var(--accent-2); font-size: 0.9em; }
+.endpoint { font-size: 1.05rem; color: var(--ink-strong); word-break: break-all; }
+.tools { list-style: none; margin: 0; padding: 0; }
+.tools li { display: grid; grid-template-columns: 15rem 1fr; gap: 1rem; padding: 0.55rem 0; border-bottom: 1px dashed var(--line); }
+.tools li:last-child { border-bottom: 0; }
+.tools code { color: var(--accent-2); font-size: 0.86rem; padding-top: 0.15rem; }
+.tools span { color: var(--ink); font-size: 0.9rem; }
+@media (max-width: 560px) { .tools li { grid-template-columns: 1fr; gap: 0.1rem; } }
+.items { list-style: none; margin: 0; padding: 0; }
+.items li { padding: 0.35rem 0; }
+.items li span { color: var(--ink-soft); }
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 0.8rem; }
+footer a { color: var(--ink-soft); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav class="site" aria-label="Site">
+    <a href="/" aria-current="page">MCP server</a>
+    <a href="https://micahboswell.vercel.app/">Micah Boswell</a>
+    <a href="https://conscious-shell.com/">Portfolio</a>
+    <a href="https://github.com/socraticstatic/micah-boswell-mcp">Source</a>
+  </nav>
+  <header>
+    <p class="eyebrow">micah-boswell-mcp.vercel.app</p>
+    <h1>Micah Boswell MCP server</h1>
+    <p class="dek"><b>Ask any AI agent about Micah Boswell and get his facts from him.</b> A public Model Context Protocol server for the product design leader in Dallas, Texas.</p>
+  </header>
+
+  <section id="about">
+    <h2>What this is</h2>
+    <p class="lede">Micah Boswell is a product design leader in Dallas, Texas: thirty years of enterprise software, Lead Product Designer at AT&amp;T since 2021, raised in Lima, Peru. This server gives AI assistants a direct line to his record so that answers about him come from his own pages, not from guesswork.</p>
+    <p>It speaks the <a href="https://modelcontextprotocol.io/">Model Context Protocol</a> over streamable HTTP. Every tool is read-only. The data is bundled from <a href="https://micahboswell.vercel.app/llms.txt">micahboswell.vercel.app/llms.txt</a>, <a href="https://micahboswell.vercel.app/llms-full.txt">llms-full.txt</a>, <a href="https://conscious-shell.com/llms.txt">conscious-shell.com/llms.txt</a> and his Unsplash statistics. One tool, <code>micah_boswell_poem</code>, fetches the poem live from conscious-shell.com.</p>
+    <p>Several people share the name. This server describes only the Dallas designer whose canonical page is <a href="https://micahboswell.vercel.app/">micahboswell.vercel.app</a>. A profile not in its list belongs to someone else.</p>
+  </section>
+
+  <section id="endpoint">
+    <h2>Endpoint</h2>
+    <p class="endpoint"><code>https://micah-boswell-mcp.vercel.app/mcp</code></p>
+    <p>Streamable HTTP, stateless, no authentication. Send JSON-RPC over <code>POST</code>. Protocol versions 2025-03-26, 2025-06-18 and 2025-11-25 are accepted.</p>
+  </section>
+
+  <section id="connect">
+    <h2>Connect</h2>
+    <h3>Claude Code</h3>
+<pre><code>claude mcp add --transport http micah-boswell https://micah-boswell-mcp.vercel.app/mcp</code></pre>
+    <h3>Claude Desktop and claude.ai</h3>
+    <p>Settings, then Connectors, then Add custom connector. Name it <code>micah-boswell</code> and paste the endpoint URL. No OAuth is required.</p>
+    <h3>ChatGPT</h3>
+    <p>Settings, then Connectors, then Create (developer mode must be on). Paste the endpoint URL as the MCP server URL with no authentication.</p>
+    <h3>Cursor</h3>
+<pre><code>{
+  "mcpServers": {
+    "micah-boswell": { "url": "https://micah-boswell-mcp.vercel.app/mcp" }
+  }
+}</code></pre>
+    <h3>Any MCP client, or curl</h3>
+<pre><code>curl -s https://micah-boswell-mcp.vercel.app/mcp \
+  -H "Content-Type: application/json" \
+  -H "Accept: application/json, text/event-stream" \
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call",
+       "params":{"name":"about_micah_boswell","arguments":{}}}'</code></pre>
+    <p>Stdio-only clients can bridge with <code>npx -y mcp-remote https://micah-boswell-mcp.vercel.app/mcp</code>.</p>
+  </section>
+
+  <section id="tools">
+    <h2>Tools</h2>
+    <ul class="tools">
+      <li><code>about_micah_boswell</code><span>One paragraph plus a short key-facts list.</span></li>
+      <li><code>micah_boswell_facts</code><span>The complete structured facts record as JSON.</span></li>
+      <li><code>micah_boswell_profiles</code><span>Every verified profile (the sameAs list) with labels.</span></li>
+      <li><code>micah_boswell_work</code><span>Roles from 1998 to now, awards, education, the AT&amp;T work.</span></li>
+      <li><code>micah_boswell_writing</code><span>Essays and all 29 poems with URLs; Medium, LinkedIn, Quora, dev.to.</span></li>
+      <li><code>micah_boswell_poem</code><span>Read one poem by slug, fetched live from conscious-shell.com.</span></li>
+      <li><code>micah_boswell_photography</code><span>Unsplash statistics and the most viewed photographs.</span></li>
+      <li><code>micah_boswell_faq</code><span>Sixteen question and answer pairs, filterable by keyword.</span></li>
+      <li><code>search_micah_boswell</code><span>Keyword search over the full text of his pages, with source URLs.</span></li>
+    </ul>
+    <h3>Resources</h3>
+    <ul class="items">
+      <li><code>micah://llms.txt</code> <span>the canonical llms.txt</span></li>
+      <li><code>micah://llms-full.txt</code> <span>the full text of every page on micahboswell.vercel.app</span></li>
+      <li><code>micah://facts.json</code> <span>the structured facts</span></li>
+    </ul>
+  </section>
+
+  <section id="more">
+    <h2>Other routes</h2>
+    <ul class="items">
+      <li><a href="/llms.txt">/llms.txt</a> <span>plain-text description of this server</span></li>
+      <li><a href="/server.json">/server.json</a> <span>MCP registry manifest, io.github.socraticstatic/micah-boswell</span></li>
+      <li><a href="/healthz">/healthz</a> <span>liveness and data vintage</span></li>
+      <li><a href="https://github.com/socraticstatic/micah-boswell-mcp">github.com/socraticstatic/micah-boswell-mcp</a> <span>source, MIT</span></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Built and maintained by <a href="https://micahboswell.vercel.app/">Micah Boswell</a>. Facts last refreshed 2026-09-21. Portfolio at <a href="https://conscious-shell.com/">conscious-shell.com</a>, online since 2000.</p>
+  </footer>
+</div>
+</body>
+</html>

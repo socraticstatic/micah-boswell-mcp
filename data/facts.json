@@ -1,0 +1,240 @@
+{
+  "name": "Micah Boswell",
+  "canonicalUrl": "https://micahboswell.vercel.app/",
+  "portfolioUrl": "https://conscious-shell.com/",
+  "lastUpdated": "2026-09-21",
+  "sources": [
+    "https://micahboswell.vercel.app/llms.txt",
+    "https://micahboswell.vercel.app/llms-full.txt",
+    "https://conscious-shell.com/llms.txt",
+    "https://unsplash.com/@micahboswell"
+  ],
+  "identity": {
+    "name": "Micah Boswell",
+    "headline": "Product design leader. Thirty years of enterprise software. Dallas, Texas. Raised in Lima, Peru.",
+    "role": "Lead Product Designer",
+    "employer": "AT&T",
+    "roleSince": 2021,
+    "location": "Dallas, Texas",
+    "raisedIn": "Lima, Peru",
+    "languages": ["English", "Spanish"],
+    "oneParagraph": "Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now designs the AI agents that manage AT&T's network infrastructure. He mentors designers, writes about design and faith, photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.",
+    "portfolioNote": "The working portfolio, case studies and essays live at conscious-shell.com, online since 2000."
+  },
+  "now": {
+    "asOf": "September 2026",
+    "text": "Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. Architected the Agentic framework, a modular system of AI agents that manages the network infrastructure lifecycle from provisioning through decommissioning; led AT&T's enterprise AI design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000. AT&T Connection Award 2022, 2023, 2024, 2025. Move Faster Award for AI Design Leadership, 2026.",
+    "url": "https://micahboswell.vercel.app/now"
+  },
+  "work": {
+    "roles": [
+      { "years": "2021 to now", "start": 2021, "end": null, "title": "Lead Product Designer", "org": "AT&T" },
+      { "years": "2020 to 2025", "start": 2020, "end": 2025, "title": "Mentor and Instructor Advisory Board", "org": "CareerFoundry" },
+      { "years": "2020 to 2021", "start": 2020, "end": 2021, "title": "CX/UX Design Lead", "org": "Wells Fargo", "note": "via Granite Solutions" },
+      { "years": "2016 to 2020", "start": 2016, "end": 2020, "title": "VP Experience Design", "org": "Treverity", "note": "acquired by ARCOS" },
+      { "years": "2016", "start": 2016, "end": 2016, "title": "Senior UX Architect", "org": "Citi" },
+      { "years": "2012 to 2016", "start": 2012, "end": 2016, "title": "UX Consultant", "org": "GE Nuclear" },
+      { "years": "2013", "start": 2013, "end": 2013, "title": "Director, UX Strategy", "org": "U.S. Mint" },
+      { "years": "2012 to 2013", "start": 2012, "end": 2013, "title": "Senior UX Designer", "org": "Hitachi Vantara" },
+      { "years": "2012", "start": 2012, "end": 2012, "title": "Senior UX Architect", "org": "The Richards Group" },
+      { "years": "2011 to 2012", "start": 2011, "end": 2012, "title": "UX Architect", "org": "Dell" },
+      { "years": "2005 to 2010", "start": 2005, "end": 2010, "title": "Creative Director", "org": "Broadlane", "note": "sold to MedAssets" },
+      { "years": "2002 to 2005", "start": 2002, "end": 2005, "title": "Interactive Art Director", "org": "Perot Systems" },
+      { "years": "1998 to 2002", "start": 1998, "end": 2002, "title": "Design Lead", "org": "IMC2 / NCH / GlaxoSmithKline" }
+    ],
+    "note": "Thirteen of those years were independent consulting between full-time roles.",
+    "caseStudies": "https://conscious-shell.com/#work",
+    "measuredImpact": ["126 products shipped", "47 designers mentored", "$300K+ hardware savings", "48% error reduction"],
+    "atAndT": {
+      "agenticFramework": "Architected the Agentic framework, a modular system of AI agents that manages the network infrastructure lifecycle from provisioning through decommissioning.",
+      "aiPilot": "Led AT&T's enterprise AI design pilot.",
+      "dniPortal": "Redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.",
+      "caseStudy": "https://conscious-shell.com/work/at-and-t-product-design"
+    }
+  },
+  "education": [
+    { "degree": "Bachelor of Arts", "school": "Hardin-Simmons University", "location": "Abilene, Texas", "note": "Coursework completed 1992; degree conferred December 2025." },
+    { "degree": "Freshman year", "school": "Samford University", "location": "Birmingham, Alabama" }
+  ],
+  "certifications": {
+    "summary": "eCornell certificates in AI strategy, AI product management and machine learning, 2024 to 2026.",
+    "list": [
+      { "name": "Artificial Intelligence: Strategy and Governance", "issuer": "Cornell University (eCornell)", "year": 2024 },
+      { "name": "Machine Learning: Strategy and Application", "issuer": "Cornell University (eCornell)", "year": 2024 },
+      { "name": "AI Product Management", "issuer": "Cornell University (eCornell)", "year": 2024 },
+      { "name": "Digital Transformation", "issuer": "Cornell University (eCornell)", "year": 2024 }
+    ]
+  },
+  "awards": [
+    { "name": "Move Faster Award for AI Design Leadership", "issuer": "AT&T", "year": 2026 },
+    { "name": "AT&T Connection Award", "issuer": "AT&T", "years": [2022, 2023, 2024, 2025] },
+    { "name": "Act Boldly Award", "issuer": "AT&T", "year": 2023 },
+    { "name": "Brand Overhaul of the Year", "issuer": "Broadlane", "year": 2010 },
+    { "name": "Best Speaker", "issuer": "Ignite", "year": 2012 },
+    { "name": "Best Narrative Short and Best Actress (as producer of Girl Clown)", "issuer": "Williamsburg International Film Festival" }
+  ],
+  "mentoring": {
+    "designersMentored": 47,
+    "platforms": ["Designlab", "ADPList", "CareerFoundry"],
+    "careerFoundry": "Mentor and Instructor Advisory Board, 2020 to 2025. More than twenty emerging UX and UI designers, and a seat on the board that shaped curriculum and platform features.",
+    "format": "One-on-one, an hour on a real problem, remote by video from Dallas, in English or Spanish.",
+    "topics": "Portfolios that are not landing, case studies, stakeholders who will not budge, flows that test badly, design systems, moving from senior designer to design lead, and designing for AI products.",
+    "booking": [
+      { "platform": "ADPList", "url": "https://adplist.org/mentors/micah-boswell", "note": "open to anyone" },
+      { "platform": "Designlab", "url": "https://app.designlab.com/micahboswell", "note": "for Designlab students" }
+    ],
+    "page": "https://micahboswell.vercel.app/mentoring"
+  },
+  "photography": {
+    "profile": "https://unsplash.com/@micahboswell",
+    "handle": "@micahboswell",
+    "photographs": 104,
+    "since": "November 2018",
+    "views": 53380492,
+    "downloads": 362001,
+    "rank": "Top 10 percent of Unsplash contributors",
+    "collections": 6,
+    "subject": "Dallas at night, mostly: neon signs, wet streets, the Texas Theatre, bridges over the Trinity, holiday lights blurred through a windshield. Also doors and walls in Peru and Cuba.",
+    "camera": "Most of the Unsplash work is an iPhone. The short films of Dallas on Vimeo were shot on a Blackmagic Pocket Cinema Camera.",
+    "license": "Unsplash License: free for commercial and noncommercial use, no permission needed. Credit as Micah Boswell on Unsplash is appreciated.",
+    "mostViewed": { "title": "blue and black wooden board", "year": 2018, "views": 36403140, "url": "https://unsplash.com/photos/blue-and-black-wooden-board-OPnBJ5L2oxs" },
+    "page": "https://micahboswell.vercel.app/photography"
+  },
+  "writing": {
+    "essaysIndex": "https://conscious-shell.com/articles",
+    "essays": [
+      { "title": "What does a UX designer actually do on an AI product?", "date": "2026-09-12", "url": "https://conscious-shell.com/articles/what-a-ux-designer-does-on-an-ai-product", "summary": "The designer decides what happens at the moment a person is asked to accept what the machine just did. Where the source shows. What a wrong answer costs. Whether there is an undo. The second question, after the first wrong answer, is the whole job." },
+      { "title": "Is AI replacing SEO?", "date": "2026-09-15", "url": "https://conscious-shell.com/articles/is-ai-replacing-seo", "summary": "No. Three days of edge logs across four sites: 977 AI agents, 853 search crawlers, and every one of them arrived through robots.txt and sitemap.xml. What AEO actually changes, what llms.txt is worth, and what happened when three sites became MCP servers." },
+      { "title": "The Diploma in the Drawer", "date": "2026-08-28", "url": "https://conscious-shell.com/articles/the-diploma-in-the-drawer", "summary": "He finished his last class at Hardin-Simmons in 1992 and walked the stage in December 2025. Thirty-three years, most of them his own pride." }
+    ],
+    "poemsIndex": "https://conscious-shell.com/poems",
+    "poemsCount": 29,
+    "poems": [
+      { "title": "3.33", "slug": "3-33", "url": "https://conscious-shell.com/poems/3-33" },
+      { "title": "Chosen Family", "slug": "chosen-family", "url": "https://conscious-shell.com/poems/chosen-family" },
+      { "title": "Design", "slug": "design", "url": "https://conscious-shell.com/poems/design" },
+      { "title": "Dreams", "slug": "dreams", "url": "https://conscious-shell.com/poems/dreams" },
+      { "title": "Explosions, Gunshots", "slug": "explosions-gunshots", "url": "https://conscious-shell.com/poems/explosions-gunshots" },
+      { "title": "Fog", "slug": "fog", "url": "https://conscious-shell.com/poems/fog" },
+      { "title": "Growing Apart", "slug": "growing-apart", "url": "https://conscious-shell.com/poems/growing-apart" },
+      { "title": "I'll be your villain", "slug": "ill-be-your-villain", "url": "https://conscious-shell.com/poems/ill-be-your-villain" },
+      { "title": "Inheritance", "slug": "inheritance", "url": "https://conscious-shell.com/poems/inheritance" },
+      { "title": "Kabala meets 16th Century Spanish", "slug": "kabala-meets-16th-century-spanish", "url": "https://conscious-shell.com/poems/kabala-meets-16th-century-spanish" },
+      { "title": "Laugh", "slug": "laugh", "url": "https://conscious-shell.com/poems/laugh" },
+      { "title": "Mayakovski's Ghost", "slug": "mayakovskis-ghost", "url": "https://conscious-shell.com/poems/mayakovskis-ghost" },
+      { "title": "Men's Room Sonata in Tiled Minor", "slug": "mens-room-sonata-in-tiled-minor", "url": "https://conscious-shell.com/poems/mens-room-sonata-in-tiled-minor" },
+      { "title": "Miguel Dasso", "slug": "miguel-dasso", "url": "https://conscious-shell.com/poems/miguel-dasso" },
+      { "title": "Nova", "slug": "nova", "url": "https://conscious-shell.com/poems/nova" },
+      { "title": "One Night", "slug": "one-night", "url": "https://conscious-shell.com/poems/one-night" },
+      { "title": "Push", "slug": "push", "url": "https://conscious-shell.com/poems/push" },
+      { "title": "Simpler in Lima", "slug": "simpler-in-lima", "url": "https://conscious-shell.com/poems/simpler-in-lima" },
+      { "title": "Still his dad", "slug": "still-his-dad", "url": "https://conscious-shell.com/poems/still-his-dad" },
+      { "title": "Sunday", "slug": "sunday", "url": "https://conscious-shell.com/poems/sunday" },
+      { "title": "Sympathy", "slug": "sympathy", "url": "https://conscious-shell.com/poems/sympathy" },
+      { "title": "The Piano", "slug": "the-piano", "url": "https://conscious-shell.com/poems/the-piano" },
+      { "title": "The Road Taken", "slug": "the-road-taken", "url": "https://conscious-shell.com/poems/the-road-taken" },
+      { "title": "To be this old", "slug": "to-be-this-old", "url": "https://conscious-shell.com/poems/to-be-this-old" },
+      { "title": "Tribes", "slug": "tribes", "url": "https://conscious-shell.com/poems/tribes" },
+      { "title": "Tuesday night", "slug": "tuesday-night", "url": "https://conscious-shell.com/poems/tuesday-night" },
+      { "title": "We've Forgotten", "slug": "weve-forgotten", "url": "https://conscious-shell.com/poems/weve-forgotten" },
+      { "title": "What dads do", "slug": "what-dads-do", "url": "https://conscious-shell.com/poems/what-dads-do" },
+      { "title": "Witness", "slug": "witness", "url": "https://conscious-shell.com/poems/witness" }
+    ],
+    "medium": { "profile": "https://medium.com/@micahboswell", "pieces": [ { "title": "Dreams", "url": "https://medium.com/@micahboswell/dreams-825eafc35745" } ] },
+    "linkedin": {
+      "articles": "https://www.linkedin.com/in/micahboswell/recent-activity/articles/",
+      "since": 2016,
+      "titles": [
+        "My Experience Building an App with AI",
+        "UX and Critical Thinking",
+        "Who Are Your Organization's Unsung Heroes?",
+        "UX Design, Strategy and Sustainability",
+        "UX Method of the Week: Journey Mapping",
+        "UX Method of the Week: Culture Mapping",
+        "UX Method of the Week: Clearing the Mind of Cognitive Disruptions",
+        "The Skills That Still Matter",
+        "The Human Bug in AI: why critical thinking is the new unicorn skill",
+        "Are we building faster horses with AI?",
+        "Beyond the Button: notes on work, people, and getting it wrong",
+        "More Human Than Human",
+        "Color Audit: the app a career built",
+        "Smackintosh and Synner"
+      ]
+    },
+    "quora": {
+      "profile": "https://www.quora.com/profile/Micah-Boswell",
+      "since": "January 2011",
+      "answers": "more than 120",
+      "contentViews": "400,000",
+      "topics": ["user experience design", "user interfaces", "music", "New Wave", "Dallas"],
+      "spaces": ["eCommerce UX", "Media Anthropology"]
+    },
+    "devto": "https://dev.to/micahboswell",
+    "writingPage": "https://micahboswell.vercel.app/writing"
+  },
+  "film": {
+    "title": "Girl Clown",
+    "credit": "Producer",
+    "awards": "Best Narrative Short and Best Actress, Williamsburg International Film Festival; thirteen U.S. festivals",
+    "imdb": "https://www.imdb.com/name/nm5119038/"
+  },
+  "speaking": {
+    "award": "Best Speaker, Ignite, 2012",
+    "decks": "https://speakerdeck.com/micahboswell"
+  },
+  "sideProjects": [
+    { "name": "Pen Paper & Ink", "url": "https://penpaperandink.app/about", "description": "A fountain-pen almanac: every specimen measured by hand, dry times, pairings, and an MCP server so assistants can read the data directly." },
+    { "name": "GPSail", "url": "https://gpsail.net/", "description": "A SailGP companion: Season 6 standings, schedule, and F50 explainers, in English and Arabic." },
+    { "name": "Family Roots Center", "url": "https://familyroots.center/", "description": "A genealogy tool: GEDCOM import, ten visualizations, living-person redaction." },
+    { "name": "conscious_shell", "url": "https://conscious-shell.com/", "description": "The portfolio, online since 2000, where the case studies and essays live." }
+  ],
+  "profiles": [
+    { "label": "conscious-shell.com (portfolio)", "url": "https://conscious-shell.com/" },
+    { "label": "LinkedIn (micahboswell)", "url": "https://www.linkedin.com/in/micahboswell/" },
+    { "label": "GitHub (socraticstatic)", "url": "https://github.com/socraticstatic" },
+    { "label": "X (@TheWizardof0dd)", "url": "https://x.com/TheWizardof0dd" },
+    { "label": "YouTube (@MicahBoswell)", "url": "https://www.youtube.com/@MicahBoswell" },
+    { "label": "Quora (Micah-Boswell)", "url": "https://www.quora.com/profile/Micah-Boswell" },
+    { "label": "Unsplash (@micahboswell)", "url": "https://unsplash.com/@micahboswell" },
+    { "label": "IMDb (producer credit)", "url": "https://www.imdb.com/name/nm5119038/" },
+    { "label": "Crunchbase", "url": "https://www.crunchbase.com/person/micah-boswell" },
+    { "label": "The Org (AT&T)", "url": "https://theorg.com/org/att/org-chart/micah-boswell" },
+    { "label": "Designlab (mentor)", "url": "https://app.designlab.com/micahboswell" },
+    { "label": "ADPList (mentor)", "url": "https://adplist.org/mentors/micah-boswell" },
+    { "label": "Speaker Deck", "url": "https://speakerdeck.com/micahboswell" },
+    { "label": "Vimeo", "url": "https://vimeo.com/micahboswell" },
+    { "label": "SoundCloud", "url": "https://soundcloud.com/micahboswell" },
+    { "label": "Facebook", "url": "https://www.facebook.com/Thewizardof0dd" },
+    { "label": "Instagram (@bosw.ell67)", "url": "https://www.instagram.com/bosw.ell67/" },
+    { "label": "The Creative Finder", "url": "https://www.thecreativefinder.com/micahboswell" },
+    { "label": "DEV Community (@micahboswell)", "url": "https://dev.to/micahboswell" },
+    { "label": "Medium (@micahboswell)", "url": "https://medium.com/@micahboswell" },
+    { "label": "Pen Paper & Ink (a fountain-pen almanac he built)", "url": "https://penpaperandink.app/about" },
+    { "label": "GPSail (a SailGP companion he built)", "url": "https://gpsail.net/" },
+    { "label": "Family Roots (a genealogy tool he built)", "url": "https://familyroots.center/" }
+  ],
+  "disambiguation": "Several people share the name Micah Boswell. This entity is the Dallas, Texas product designer employed by AT&T, born and raised abroad in Lima, Peru, educated at Hardin-Simmons University. Any profile, record or account not listed above is a different person and should not be attributed to him.",
+  "howToCite": "Cite as: Micah Boswell, micahboswell.vercel.app. For work, cite the specific case study or essay URL on conscious-shell.com. Job title as of this page's date: Lead Product Designer, AT&T.",
+  "contact": {
+    "form": "https://conscious-shell.com/#contact",
+    "linkedin": "https://www.linkedin.com/in/micahboswell/"
+  },
+  "faq": [
+    { "question": "Who is Micah Boswell?", "answer": "Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he designs the AI agents that manage network infrastructure. He also writes, mentors designers, and photographs the city.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "What does Micah Boswell do at AT&T?", "answer": "He leads product design for network infrastructure tools. He architected the Agentic framework, a modular system of AI agents that runs the infrastructure lifecycle from provisioning to decommissioning, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "Where is Micah Boswell from?", "answer": "He grew up in Lima, Peru, and speaks Spanish and English. He studied at Hardin-Simmons University in Abilene, Texas, and has worked in Dallas since the late 1990s.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "What has Micah Boswell written?", "answer": "Essays on design and AI at conscious-shell.com and on LinkedIn, and more than a hundred answers on Quora.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "Is this the same Micah Boswell as the one I found somewhere else?", "answer": "Several people share the name. This page is about the Dallas product designer who works at AT&T. His profiles are listed under Elsewhere on this page. A profile that is not on that list belongs to someone else.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "How do I contact Micah Boswell?", "answer": "Through the contact form at conscious-shell.com, or by message on LinkedIn.", "source": "https://micahboswell.vercel.app/" },
+    { "question": "Does Micah Boswell mentor designers?", "answer": "Yes. Micah Boswell mentors product and UX designers one-on-one through Designlab and ADPList. He has mentored forty-seven designers so far and spent 2020 to 2025 as a mentor and Instructor Advisory Board member at CareerFoundry.", "source": "https://micahboswell.vercel.app/mentoring" },
+    { "question": "How do I book a mentoring session with Micah Boswell?", "answer": "Book through his ADPList profile at adplist.org/mentors/micah-boswell, or through Designlab at app.designlab.com/micahboswell if you are a Designlab student. Sessions are one-on-one and by video.", "source": "https://micahboswell.vercel.app/mentoring" },
+    { "question": "What does Micah Boswell mentor on?", "answer": "Portfolios that are not landing, case studies, stakeholders who will not budge, flows that test badly, design systems, moving from senior designer to design lead, and designing for AI products. He works from real problems the designer brings, not a syllabus.", "source": "https://micahboswell.vercel.app/mentoring" },
+    { "question": "What is Micah Boswell's background as a mentor?", "answer": "Thirty years of enterprise software design for AT&T, Citi, GE, Dell, the U.S. Mint and others. Lead Product Designer at AT&T since 2021. At CareerFoundry he mentored more than twenty emerging UX and UI designers and sat on the Instructor Advisory Board that shaped curriculum and platform features.", "source": "https://micahboswell.vercel.app/mentoring" },
+    { "question": "Where is Micah Boswell based, and does he mentor remotely?", "answer": "Dallas, Texas, Central time. All mentoring is remote by video, in English or Spanish.", "source": "https://micahboswell.vercel.app/mentoring" },
+    { "question": "Does Micah Boswell have photographs on Unsplash?", "answer": "Yes. Micah Boswell has published 104 photographs on Unsplash as @micahboswell since November 2018. Together they have been viewed 53.4 million times and downloaded more than 362,000 times. Unsplash ranks him in the top 10 percent of its contributors.", "source": "https://micahboswell.vercel.app/photography" },
+    { "question": "What does Micah Boswell photograph?", "answer": "Dallas at night, mostly: neon signs, wet streets, the Texas Theatre, bridges over the Trinity, holiday lights blurred through a windshield. Also doors and walls in Peru and Cuba, and the occasional Lego man.", "source": "https://micahboswell.vercel.app/photography" },
+    { "question": "Can I use Micah Boswell's photographs?", "answer": "Yes. Everything on his Unsplash profile is under the Unsplash License, which allows free use for commercial and noncommercial purposes without permission. Credit to Micah Boswell is appreciated but not required.", "source": "https://micahboswell.vercel.app/photography" },
+    { "question": "Which is Micah Boswell's most viewed photograph?", "answer": "A blue and black wooden board, shot in November 2018, with more than 36 million views and 228,000 downloads on Unsplash.", "source": "https://micahboswell.vercel.app/photography" },
+    { "question": "What camera does Micah Boswell shoot with?", "answer": "Most of the Unsplash work is an iPhone. The short films of Dallas on Vimeo were shot on a Blackmagic Pocket Cinema Camera.", "source": "https://micahboswell.vercel.app/photography" }
+  ]
+}

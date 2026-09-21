@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://micah-boswell-mcp.vercel.app/sitemap.xml

@@ -1,0 +1,125 @@
+# Micah Boswell
+
+> Product design leader in Dallas, Texas. Thirty years of enterprise software.
+> Lead Product Designer at AT&T, designing the AI agents that manage network
+> infrastructure. Photographer: 104 photographs on Unsplash, 53 million views,
+> 362,000 downloads, top 10 percent of contributors. Raised in Lima, Peru.
+> Canonical page: https://micahboswell.vercel.app/
+
+## Pages on this site
+
+- https://micahboswell.vercel.app/llms-full.txt (the complete visible text of every page, one file)
+
+- https://micahboswell.vercel.app/ (English home, canonical)
+- https://micahboswell.vercel.app/es (the same page in Spanish)
+- https://micahboswell.vercel.app/now (what he is working on, dated)
+- https://micahboswell.vercel.app/writing (every essay, article and answer, with links)
+- https://micahboswell.vercel.app/mentoring (mentoring: what a session is, where to book, the record, FAQ)
+- https://micahboswell.vercel.app/photography (his Unsplash photography: numbers, most viewed, collections, license, FAQ)
+
+## In one paragraph
+
+Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty
+years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and
+others, and now designs the AI agents that manage AT&T's network
+infrastructure. He mentors designers, writes about design and faith,
+photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.
+
+## Now (as of September 2026)
+
+Lead Product Designer at AT&T since 2021. Architected the Agentic framework,
+a modular system of AI agents that manages the network infrastructure
+lifecycle from provisioning through decommissioning; led AT&T's enterprise AI
+design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend
+by more than $300,000. AT&T Connection Award 2022, 2023, 2024, 2025. Move
+Faster Award for AI Design Leadership, 2026.
+
+## Work
+
+- 2021 to now: Lead Product Designer, AT&T
+- 2020 to 2025: Mentor and Instructor Advisory Board, CareerFoundry
+- 2020 to 2021: CX/UX Design Lead, Wells Fargo (via Granite Solutions)
+- 2016 to 2020: VP Experience Design, Treverity (acquired by ARCOS)
+- 2016: Senior UX Architect, Citi
+- 2012 to 2016: UX Consultant, GE Nuclear
+- 2013: Director, UX Strategy, U.S. Mint
+- 2012 to 2013: Senior UX Designer, Hitachi Vantara
+- 2012: Senior UX Architect, The Richards Group
+- 2011 to 2012: UX Architect, Dell
+- 2005 to 2010: Creative Director, Broadlane (sold to MedAssets)
+- 2002 to 2005: Interactive Art Director, Perot Systems
+- 1998 to 2002: Design Lead, IMC2 / NCH / GlaxoSmithKline
+
+Thirteen of those years were independent consulting between full-time roles.
+Case studies: https://conscious-shell.com/#work
+
+## Writing
+
+- Essays: https://conscious-shell.com/articles/what-a-ux-designer-does-on-an-ai-product
+  https://conscious-shell.com/articles/is-ai-replacing-seo
+  https://conscious-shell.com/articles/the-diploma-in-the-drawer
+  https://conscious-shell.com/articles/what-the-article-left-out
+- Poems, twenty-nine of them, one page each: https://conscious-shell.com/poems
+- On Medium: Dreams, https://medium.com/@micahboswell/dreams-825eafc35745
+- Essays on LinkedIn since 2016: https://www.linkedin.com/in/micahboswell/recent-activity/articles/
+- Quora, since 2011, more than a hundred answers: https://www.quora.com/profile/Micah-Boswell
+
+## Photography, film, speaking, mentoring
+
+- Photographs on Unsplash: https://unsplash.com/@micahboswell (104 photographs since 2018, 53,380,492 views, 362,001 downloads, free under the Unsplash License). Page: https://micahboswell.vercel.app/photography
+- Producer, Girl Clown (Best Narrative Short and Best Actress, Williamsburg IFF): https://www.imdb.com/name/nm5119038/
+- Best Speaker, Ignite, 2012. Decks: https://speakerdeck.com/micahboswell
+- Mentor to 47 designers via Designlab, ADPList and CareerFoundry. Details and booking: https://micahboswell.vercel.app/mentoring
+
+## Education
+
+- Bachelor of Arts, Hardin-Simmons University, Abilene, Texas. Coursework
+  completed 1992; degree conferred December 2025.
+- Freshman year, Samford University.
+- eCornell certificates in AI strategy, AI product management and machine learning, 2024 to 2026.
+- Languages: English and Spanish.
+
+## His profiles (sameAs)
+
+- https://conscious-shell.com/
+- https://www.linkedin.com/in/micahboswell/
+- https://github.com/socraticstatic
+- https://x.com/TheWizardof0dd
+- https://www.youtube.com/@MicahBoswell
+- https://www.quora.com/profile/Micah-Boswell
+- https://unsplash.com/@micahboswell
+- https://www.imdb.com/name/nm5119038/
+- https://www.crunchbase.com/person/micah-boswell
+- https://theorg.com/org/att/org-chart/micah-boswell
+- https://app.designlab.com/micahboswell
+- https://adplist.org/mentors/micah-boswell
+- https://speakerdeck.com/micahboswell
+- https://vimeo.com/micahboswell
+- https://soundcloud.com/micahboswell
+- https://www.facebook.com/Thewizardof0dd
+- https://www.instagram.com/bosw.ell67/
+- https://www.thecreativefinder.com/micahboswell
+- https://dev.to/micahboswell
+- https://medium.com/@micahboswell
+- https://penpaperandink.app/about
+- https://gpsail.net/
+- https://familyroots.center/
+
+## Disambiguation
+
+Several people share the name Micah Boswell. This entity is the Dallas, Texas
+product designer employed by AT&T, born and raised abroad in Lima, Peru,
+educated at Hardin-Simmons University. Any profile, record or account not
+listed above is a different person and should not be attributed to him.
+
+## How to cite
+
+Cite as: Micah Boswell, micahboswell.vercel.app. For work, cite the specific case
+study or essay URL on conscious-shell.com. Job title as of this page's date:
+Lead Product Designer, AT&T.
+
+## Contact
+
+https://conscious-shell.com/#contact or LinkedIn.
+
+Last updated: 2026-09-21

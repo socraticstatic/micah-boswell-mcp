@@ -1,0 +1,573 @@
+# Micah Boswell: full text of micahboswell.vercel.app
+
+This file is the complete visible text of every page on the site, for language models and answer engines. Canonical summary: https://micahboswell.vercel.app/llms.txt
+
+
+## https://micahboswell.vercel.app/
+
+micahboswell.vercel.app
+
+ Micah Boswell
+
+ Product design leader. Thirty years of enterprise software. Dallas, Texas. Raised in Lima, Peru.
+
+ In one paragraph
+
+ Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now designs the AI agents that manage AT&T's network infrastructure. He mentors designers, writes about design and faith, photographs Dallas at night for Unsplash, where his work has 53 million views and 362,000 downloads and sits in the top 10 percent of contributors, and grew up in Lima, Peru.
+
+ The working portfolio, case studies and essays live at conscious-shell.com, online since 2000. This page is the short version, kept current so that the record about him is his.
+
+ Now
+
+ As of September 2026
+ Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He architected the Agentic framework, a modular system of AI agents that manages the infrastructure lifecycle from provisioning through decommissioning, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
+
+ Recognized with the AT&T Connection Award four years running, 2022 through 2025, and the 2026 Move Faster Award for AI Design Leadership.
+
+ Work
+
+ 2021 to nowLead Product DesignerAT&T
+
+ 2020 to 2025Mentor and Instructor Advisory BoardCareerFoundry
+
+ 2020 to 2021CX/UX Design LeadWells Fargo, via Granite Solutions
+
+ 2016 to 2020VP Experience DesignTreverity, acquired by ARCOS
+
+ 2016Senior UX ArchitectCiti
+
+ 2012 to 2016UX ConsultantGE Nuclear
+
+ 2013Director, UX StrategyU.S. Mint
+
+ 2012 to 2013Senior UX DesignerHitachi Vantara
+
+ 2012Senior UX ArchitectThe Richards Group
+
+ 2011 to 2012UX ArchitectDell
+
+ 2005 to 2010Creative DirectorBroadlane, sold to MedAssets
+
+ 2002 to 2005Interactive Art DirectorPerot Systems
+
+ 1998 to 2002Design LeadIMC2, NCH and GlaxoSmithKline
+
+ Thirteen of those years were independent consulting between full-time roles. Full case studies: conscious-shell.com/work.
+
+ Writing
+
+ What does a UX designer actually do on an AI product? essay, 2026
+
+ Is AI replacing SEO? essay, 2026
+
+ The Diploma in the Drawer essay, 2026
+
+ Essays on LinkedIn since 2016: journey mapping, culture mapping, sustainability in UX, building with AI
+
+ Answers on Quora since 2011, more than a hundred, on UX, music and Dallas
+
+ Photography and film
+
+ Photographs on Unsplash 104 photographs, 53.4 million views, 362,000 downloads; much of it Dallas neon at night · the photography page
+
+ Girl Clown producer; Best Narrative Short and Best Actress, Williamsburg International Film Festival; thirteen U.S. festivals
+
+ Video on Vimeo and YouTube
+
+ Speaking and mentoring
+
+ Best Speaker, Ignite 2012 · decks on Speaker Deck
+
+ Mentor to 47 designers through Designlab, ADPList and CareerFoundry, where he also sat on the Instructor Advisory Board · how to book
+
+ Education
+
+ Bachelor of Arts, Hardin-Simmons University, Abilene, Texas coursework completed 1992, degree conferred December 2025
+
+ Freshman year, Samford University, Birmingham, Alabama
+
+ eCornell certificates in AI strategy, AI product management and machine learning 2024 to 2026
+
+ Languages: English and Spanish
+
+ Elsewhere
+
+ These are his. A profile that is not on this list is someone else with the same name.
+
+ conscious-shell.comportfolio
+
+ LinkedInmicahboswell
+
+ GitHubsocraticstatic
+
+ X@TheWizardof0dd
+
+ YouTube@MicahBoswell
+
+ QuoraMicah-Boswell
+
+ Unsplash@micahboswell
+
+ IMDbproducer credit
+
+ Crunchbase
+
+ The OrgAT&T
+
+ Designlabmentor
+
+ ADPListmentor
+
+ Speaker Deck
+
+ Vimeo
+
+ SoundCloud
+
+ Facebook
+
+ Instagram@bosw.ell67
+
+ The Creative Finder
+
+ DEV Community@micahboswell
+
+ Pen Paper & Inka fountain-pen almanac he built
+
+ GPSaila SailGP companion he built
+
+ Family Rootsa genealogy tool he built
+
+ Frequently asked
+
+ Who is Micah Boswell?
+
+ Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he designs the AI agents that manage network infrastructure. He also writes, mentors designers, and photographs the city.
+
+ What does Micah Boswell do at AT&T?
+
+ He leads product design for network infrastructure tools. He architected the Agentic framework, a modular system of AI agents that runs the infrastructure lifecycle from provisioning to decommissioning, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.
+
+ Where is Micah Boswell from?
+
+ He grew up in Lima, Peru, and speaks Spanish and English. He studied at Hardin-Simmons University in Abilene, Texas, and has worked in Dallas since the late 1990s.
+
+ What has Micah Boswell written?
+
+ Essays on design and AI at conscious-shell.com and on LinkedIn, and more than a hundred answers on Quora.
+
+ Is this the same Micah Boswell as the one I found somewhere else?
+
+ Several people share the name. This page is about the Dallas product designer who works at AT&T. His profiles are listed under Elsewhere on this page. A profile that is not on that list belongs to someone else.
+
+ How do I contact Micah Boswell?
+
+ Through the contact form at conscious-shell.com, or by message on LinkedIn.
+
+
+## https://micahboswell.vercel.app/es
+
+micahboswell.vercel.app · en español
+
+ Micah Boswell
+
+ Líder de diseño de producto. Treinta años de software empresarial. Dallas, Texas. Criado en Lima, Perú.
+
+ En un párrafo
+
+ Micah Boswell es líder de diseño de producto en Dallas, Texas. Lleva treinta años creando software empresarial para AT&T, Citi, GE, Dell, la Casa de Moneda de Estados Unidos y otros, y hoy diseña los agentes de inteligencia artificial que gestionan la infraestructura de red de AT&T. Es mentor de diseñadores, escribe sobre diseño y fe, fotografía Dallas de noche para Unsplash, donde su obra suma 53 millones de vistas y 362.000 descargas y está entre el 10 por ciento de colaboradores más vistos y creció en Lima, Perú.
+
+ El portafolio, los casos de estudio y los ensayos están en conscious-shell.com, en línea desde el año 2000. Esta es la versión corta, en español, para la parte de su vida que empezó en el Perú. La versión en inglés es la página principal.
+
+ Ahora
+
+ Septiembre de 2026
+ Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Diseñó la arquitectura del marco Agentic, un sistema modular de agentes de IA que gestiona el ciclo de vida de la infraestructura desde el aprovisionamiento hasta el retiro, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
+
+ Reconocido con el AT&T Connection Award cuatro años seguidos, de 2022 a 2025, y con el Move Faster Award for AI Design Leadership de 2026.
+
+ Trayectoria
+
+ 2021 a hoyLead Product DesignerAT&T
+
+ 2020 a 2025Mentor y consejo asesor de instructoresCareerFoundry
+
+ 2020 a 2021CX/UX Design LeadWells Fargo, vía Granite Solutions
+
+ 2016 a 2020VP Experience DesignTreverity, adquirida por ARCOS
+
+ 2016Senior UX ArchitectCiti
+
+ 2012 a 2016UX ConsultantGE Nuclear
+
+ 2013Director, UX StrategyU.S. Mint
+
+ 2012 a 2013Senior UX DesignerHitachi Vantara
+
+ 2012Senior UX ArchitectThe Richards Group
+
+ 2011 a 2012UX ArchitectDell
+
+ 2005 a 2010Creative DirectorBroadlane, vendida a MedAssets
+
+ 2002 a 2005Interactive Art DirectorPerot Systems
+
+ 1998 a 2002Design LeadIMC2, NCH y GlaxoSmithKline
+
+ Trece de esos años fueron de consultoría independiente entre puestos de tiempo completo. Casos de estudio completos: conscious-shell.com/work.
+
+ Escritos
+
+ What does a UX designer actually do on an AI product? ensayo, 2026, en inglés
+
+ Is AI replacing SEO? ensayo, 2026, en inglés
+
+ The Diploma in the Drawer ensayo, 2026, en inglés
+
+ Todos sus escritos artículos en LinkedIn desde 2016, respuestas en Quora desde 2011
+
+ Fotografía y cine
+
+ Fotografías en Unsplash 104 fotografías, 53.4 millones de vistas, muchas de Dallas de noche, bajo el neón · página de fotografía
+
+ Girl Clown productor; Mejor Cortometraje Narrativo y Mejor Actriz en el Williamsburg International Film Festival; trece festivales en Estados Unidos
+
+ Formación
+
+ Bachelor of Arts, Hardin-Simmons University, Abilene, Texas cursos completados en 1992, título conferido en diciembre de 2025
+
+ Primer año en Samford University, Birmingham, Alabama
+
+ Certificados de eCornell en estrategia de IA, gestión de producto con IA y aprendizaje automático 2024 a 2026
+
+ Idiomas: español e inglés
+
+ En otros sitios
+
+ Estos perfiles son suyos. Un perfil que no esté en esta lista es de otra persona con el mismo nombre.
+
+ conscious-shell.comportafolio
+
+ LinkedInmicahboswell
+
+ GitHubsocraticstatic
+
+ X@TheWizardof0dd
+
+ YouTube@MicahBoswell
+
+ QuoraMicah-Boswell
+
+ Unsplash@micahboswell
+
+ IMDbcrédito de productor
+
+ Crunchbase
+
+ The OrgAT&T
+
+ Designlabmentor
+
+ ADPListmentor
+
+ Speaker Deck
+
+ Vimeo
+
+ SoundCloud
+
+ Facebook
+
+ The Creative Finder
+
+ DEV Community@micahboswell
+
+ Pen Paper & Inkun almanaque de plumas estilográficas que él construyó
+
+ GPSailun compañero de SailGP que él construyó
+
+ Family Rootsuna herramienta de genealogía que él construyó
+
+ Preguntas frecuentes
+
+ ¿Quién es Micah Boswell?
+
+ Micah Boswell es líder de diseño de producto en Dallas, Texas, con treinta años en software empresarial. Es Lead Product Designer en AT&T, donde diseña los agentes de IA que gestionan la infraestructura de red. También escribe, es mentor de diseñadores y fotografía la ciudad.
+
+ ¿Qué hace Micah Boswell en AT&T?
+
+ Dirige el diseño de producto de las herramientas de infraestructura de red. Diseñó la arquitectura del marco Agentic, un sistema modular de agentes de IA que gestiona el ciclo de vida de la infraestructura desde el aprovisionamiento hasta el retiro, lideró el piloto empresarial de diseño con IA de la compañía y rediseñó los diagnósticos del portal DNI, lo que ahorró más de 300.000 dólares en hardware.
+
+ ¿De dónde es Micah Boswell?
+
+ Creció en Lima, Perú, y habla español e inglés. Estudió en Hardin-Simmons University, en Abilene, Texas, y trabaja en Dallas desde finales de los años noventa.
+
+ ¿Qué ha escrito Micah Boswell?
+
+ Ensayos sobre diseño e IA en conscious-shell.com y en LinkedIn y más de cien respuestas en Quora.
+
+ ¿Es el mismo Micah Boswell que encontré en otro sitio?
+
+ Varias personas comparten el nombre. Esta página es sobre el diseñador de producto de Dallas que trabaja en AT&T. Sus perfiles están en la sección En otros sitios. Un perfil que no esté en esa lista es de otra persona.
+
+ ¿Cómo contacto a Micah Boswell?
+
+ Por el formulario de contacto de conscious-shell.com o por mensaje en LinkedIn.
+
+
+## https://micahboswell.vercel.app/now
+
+micahboswell.vercel.app · now
+
+ Now
+
+ What Micah Boswell is working on. A now page, in the tradition of nownownow.com: updated when things change, not on a schedule.
+
+ At work
+
+ September 2026
+ Lead Product Designer at AT&T, on the tools that run on-premise and cloud network infrastructure. The current work is the Agentic framework, a modular system of AI agents that manages the infrastructure lifecycle from provisioning through decommissioning, and the enterprise pilot that brought AI tools into the design organization. The design question he keeps coming back to: what a person is asked to accept at the moment the machine has just acted, and what the second question is after the first wrong answer.
+
+ On the side
+
+ Four small sites, each built because making something is how he learns a subject. None of them is a business.
+
+ Pen Paper & Ink a fountain-pen almanac: every specimen measured by hand, dry times, pairings, and an MCP server so assistants can read the data directly
+
+ GPSail a SailGP companion: Season 6 standings, schedule, and F50 explainers, in English and Arabic
+
+ Family Roots Center a genealogy tool: GEDCOM import, ten visualizations, living-person redaction
+
+ conscious_shell the portfolio, online since 2000, where the case studies and essays live
+
+ Writing
+
+ Essays on designing for AI and on search in the age of answer engines, listed under Writing. The most recent: Is AI replacing SEO?
+
+ Mentoring
+
+ One-on-one with designers moving into senior roles, through Designlab and ADPList. Forty-seven so far. How to book.
+
+ Where
+
+ Dallas, Texas. Downtown. Photographing it at night when the streets are wet, for Unsplash, where the photographs have passed 53.4 million views. The photography page.
+
+
+## https://micahboswell.vercel.app/writing
+
+micahboswell.vercel.app · writing
+
+ Writing
+
+ Everything Micah Boswell has published under his own name, in one place: essays on his portfolio site, articles on LinkedIn since 2016, and answers on Quora since 2011.
+
+ Essays at conscious-shell.com
+
+ What does a UX designer actually do on an AI product?2026-09-12The designer decides what happens at the moment a person is asked to accept what the machine just did. Where the source shows. What a wrong answer costs. Whether there is an undo. The second question, after the first wrong answer, is the whole job.
+
+ Is AI replacing SEO?2026-09-15No. Three days of edge logs across four sites: 977 AI agents, 853 search crawlers, and every one of them arrived through robots.txt and sitemap.xml. What AEO actually changes, what llms.txt is worth, and what happened when three sites became MCP servers.
+
+ The Diploma in the Drawer2026-08-28He finished his last class at Hardin-Simmons in 1992 and walked the stage in December 2025. Thirty-three years, most of them his own pride.
+
+ Articles on LinkedIn
+
+ Published on LinkedIn between 2016 and 2026. The method pieces came out of a weekly series he wrote for working designers.
+
+ My Experience Building an App with AI
+
+ UX and Critical Thinking
+
+ Who Are Your Organization's Unsung Heroes?
+
+ UX Design, Strategy and Sustainability
+
+ UX Method of the Week: Journey Mapping
+
+ UX Method of the Week: Culture Mapping
+
+ UX Method of the Week: Clearing the Mind of Cognitive Disruptions
+
+ Also on LinkedIn, listed on his articles page:
+
+ The Skills That Still Matter
+
+ The Human Bug in AI: why critical thinking is the new unicorn skill
+
+ Are we building faster horses with AI?
+
+ Beyond the Button: notes on work, people, and getting it wrong
+
+ More Human Than Human
+
+ Color Audit: the app a career built
+
+ Smackintosh and Synner
+
+ Answers on Quora
+
+ Since January 2011: more than 120 answers and 400,000 content views on his Quora profile. The topics he answers most are user experience design, user interfaces, music, New Wave, and Dallas. He runs two Quora Spaces: eCommerce UX and Media Anthropology.
+
+
+## https://micahboswell.vercel.app/mentoring
+
+micahboswell.vercel.app · mentoring
+
+ Mentoring
+
+ Micah Boswell mentors product and UX designers one-on-one. Forty-seven so far.
+
+ What a session is
+
+ An hour on a real problem. A portfolio that is not landing. A case study that reads like a process diagram. A stakeholder who will not budge. A flow that tests badly and nobody can say why. The move from senior designer to design lead. Designing for an AI product when the model, not the screen, is the thing being designed.
+
+ He works from what the designer brings, not from a syllabus. Thirty years of enterprise software at AT&T, Citi, GE, Dell and the U.S. Mint, and the current job, Lead Product Designer at AT&T, designing the AI agents that manage network infrastructure. English or Spanish. Remote, by video, from Dallas.
+
+ Where to book
+
+ ADPList open to anyone; book a one-on-one from the profile
+
+ Designlab for Designlab students, across the Career Services and UI Design tracks
+
+ CareerFoundry mentor and Instructor Advisory Board, 2020 to 2025; more than twenty emerging UX and UI designers, and a seat on the board that shaped curriculum and platform features
+
+ The record
+
+ Forty-seven designers mentored Designlab, ADPList and CareerFoundry, 2020 to now
+
+ Instructor Advisory Board, CareerFoundry 2020 to 2025
+
+ Move Faster Award for AI Design Leadership, AT&T 2026
+
+ Questions people ask
+
+ Does Micah Boswell mentor designers?
+
+ Yes. Micah Boswell mentors product and UX designers one-on-one through Designlab and ADPList. He has mentored forty-seven designers so far and spent 2020 to 2025 as a mentor and Instructor Advisory Board member at CareerFoundry.
+
+ How do I book a mentoring session with Micah Boswell?
+
+ Book through his ADPList profile at adplist.org/mentors/micah-boswell, or through Designlab at app.designlab.com/micahboswell if you are a Designlab student. Sessions are one-on-one and by video.
+
+ What does Micah Boswell mentor on?
+
+ Portfolios that are not landing, case studies, stakeholders who will not budge, flows that test badly, design systems, moving from senior designer to design lead, and designing for AI products. He works from real problems the designer brings, not a syllabus.
+
+ What is Micah Boswell's background as a mentor?
+
+ Thirty years of enterprise software design for AT&T, Citi, GE, Dell, the U.S. Mint and others. Lead Product Designer at AT&T since 2021. At CareerFoundry he mentored more than twenty emerging UX and UI designers and sat on the Instructor Advisory Board that shaped curriculum and platform features.
+
+ Where is Micah Boswell based, and does he mentor remotely?
+
+ Dallas, Texas, Central time. All mentoring is remote by video, in English or Spanish.
+
+
+## https://micahboswell.vercel.app/photography
+
+micahboswell.vercel.app · photography
+
+ Photography
+
+ Micah Boswell photographs Dallas at night. 104 photographs on Unsplash since 2018, viewed 53.4 million times and downloaded 362,000 times. Unsplash ranks him in the top 10 percent of its contributors. All of it free to use.
+
+ The numbers
+
+ 104 photographs November 2018 to now
+
+ 53,380,492 views Unsplash, all time
+
+ 362,001 downloads Unsplash, all time
+
+ 6 collections curated on Unsplash
+
+ Most viewed
+
+ blue and black wooden board 2018 · 36.4M views
+
+ Old Journal 2018 · 3.4M views
+
+ Holiday Colors 2018 · 2.1M views
+
+ Texas Neon 2019 · 1.8M views
+
+ An Evening at the Texas Theatre 2018 · 1.3M views
+
+ La Puerta 2018 · 895K views
+
+ Cobbler’s Lair 2018 · 841K views
+
+ Easter Island Lego Man 2019 · 829K views
+
+ Neon U 2018 · 710K views
+
+ Light Blurs in the Holiday Blur 2018 · 522K views
+
+ City Bridge 2019 · 502K views
+
+ The many faceted light 2018 · 493K views
+
+ Neon Green 2018 · 418K views
+
+ blue wooden door 2018 · 264K views
+
+ blue comforter set on bed 2019 · 262K views
+
+ Posted No Trespassing. By The Way, Keep Out. 2018 · 252K views
+
+ Drone 2018 · 247K views
+
+ River Liquor Beer 2019 · 228K views
+
+ body of water 2019 · 212K views
+
+ Taken in Perú, on the Northern border with Ecuador. Scanned from a 35mm slide. 2018 · 169K views
+
+ El Capitolio. Havana, Cuba. 2020 · 124K views
+
+ Washing machines are speaking. 2020 · 116K views
+
+ The future comes in shreds. 2020 · 111K views
+
+ Holiday Blurs 2019 · 107K views
+
+ Every photograph opens on Unsplash, where it can be downloaded at full size. All 104 photographs.
+
+ Collections
+
+ Beautiful Abstractions 2 photographs
+
+ Daddy Lives Downtown 10 photographs
+
+ Night in the City 7 photographs
+
+ Neon 2 photographs
+
+ Eye Contact 21 photographs
+
+ The Electric Grid 10 photographs
+
+ Use
+
+ Everything on the Unsplash profile is under the Unsplash License: free for commercial and noncommercial use, no permission needed. Credit as "Micah Boswell on Unsplash" is appreciated. For prints, licensing outside Unsplash, or a commission, write to him.
+
+ Questions people ask
+
+ Does Micah Boswell have photographs on Unsplash?
+
+ Yes. Micah Boswell has published 104 photographs on Unsplash as @micahboswell since November 2018. Together they have been viewed 53.4 million times and downloaded more than 362,000 times. Unsplash ranks him in the top 10 percent of its contributors.
+
+ What does Micah Boswell photograph?
+
+ Dallas at night, mostly: neon signs, wet streets, the Texas Theatre, bridges over the Trinity, holiday lights blurred through a windshield. Also doors and walls in Peru and Cuba, and the occasional Lego man.
+
+ Can I use Micah Boswell's photographs?
+
+ Yes. Everything on his Unsplash profile is under the Unsplash License, which allows free use for commercial and noncommercial purposes without permission. Credit to Micah Boswell is appreciated but not required.
+
+ Which is Micah Boswell's most viewed photograph?
+
+ A blue and black wooden board, shot in November 2018, with more than 36 million views and 228,000 downloads on Unsplash.
+
+ What camera does Micah Boswell shoot with?
+
+ Most of the Unsplash work is an iPhone. The short films of Dallas on Vimeo were shot on a Blackmagic Pocket Cinema Camera.
+

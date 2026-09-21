@@ -1,0 +1,29 @@
+{
+  "name": "micah-boswell-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Public MCP server that answers questions about Micah Boswell, product design leader in Dallas, Texas. Streamable HTTP on Vercel.",
+  "mcpName": "io.github.socraticstatic/micah-boswell",
+  "author": "Micah Boswell (https://micahboswell.vercel.app/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socraticstatic/micah-boswell-mcp.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "dev": "node scripts/dev.mjs",
+    "deploy": "vercel --prod --yes"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.1"
+  }
+}

@@ -1,0 +1,186 @@
+# Micah Boswell
+
+> Design leader with 30 years shaping products people actually use. Currently
+> Experience Lead, DNI - On-Premise and Cloud Network Infrastructure at AT&T.
+> Works from anywhere. Portfolio: https://conscious-shell.com (online since 2000).
+
+## Who he is
+
+Micah Boswell came up through Hardin-Simmons University in Abilene, Texas, and
+started practicing UX in the 1990s, before the label existed. Since then he has
+shipped product across finance, telecom, healthcare, retail, and government  - 
+126 projects across a couple of eras of the web. Hardin-Simmons University,
+Bachelor of Arts: coursework completed 1992, degree conferred December 2025
+(the story is the essay The Diploma in the Drawer, linked under Essays).
+
+Today he runs a small design practice focused on three things: leading product
+design engagements, advising teams that want design to drive outcomes, and
+mentoring the next generation of senior designers.
+
+His current focus is designing for AI: the interaction design of agentic
+systems and conversational agents, and the adoption of AI tools inside product
+teams. At AT&T he architected the Agentic framework, modular AI agents that
+manage the network infrastructure lifecycle from provisioning to
+decommissioning, and helped lead an enterprise pilot of AI tools for product design.
+AT&T's 2026 Move Faster Award for AI Design Leadership recognized that work.
+
+Career highlights include experience-design work with the U.S. Mint, GE Nuclear,
+Citi, Dell, and Hitachi Vantara, and agency work for Home Depot at The Richards
+Group. Previously VP of Experience Design at Treverity LLC. Has run as a
+Principal freelance independent consultant for 13+ years. Mentor and Advisory
+Board member at CareerFoundry.
+
+## Measured impact
+
+- 126 products shipped
+- 47 designers mentored
+- $300K+ hardware savings
+- 48% error reduction
+
+Projects by decade: 18 in the 2000s, 54 in the 2010s, 54 in the 2020s.
+Discipline mix: product design 92%, design leadership 88%, UX research 85%,
+strategy 78%.
+
+## Engagements
+
+- **AI Adoption Teardown** - Your pilot works. Nobody uses it. Two weeks inside a stalled AI pilot to find out why the humans are not adopting it. Most pilots fail on interaction design and workflow fit, not on the model. I map where people drop off, redesign the interaction model, and hand your engineering team a path they can build. (2 weeks, fixed scope; $18,000 fixed; One engagement per month.)
+- **Advisory Retainer** - Design direction for teams shipping AI without a design leader. Ongoing advisory for teams building AI products. Roadmap direction, review of agent UX before it ships, and mentoring for the designers and engineers doing the work. Usually follows a teardown. (4-6 hrs/week, 3-month minimum; $6,000/month; Two concurrent, selective.)
+
+## Services
+
+- **Strategic Consulting** - Leverage 20+ years of shipping product to pressure-test direction, sequencing, and the org work that makes design land.
+- **Product Design** - From discovery research through launch and post-launch measurement - design that survives contact with production.
+- **Mentorship** - One-on-one coaching for product, UI, and UX designers ready to move into senior and leadership roles.
+
+## Selected work
+
+- [AT&T Product Design](https://conscious-shell.com/work/at-and-t-product-design) - Product Design, AT&T. Architected the Agentic framework: modular AI agents managing the network infrastructure lifecycle from provisioning to decommissioning. Redesigned DNI Portal diagnostics, saving $300K+ in hardware. Built VLAN triage tools that cut resolution from weeks to minutes.
+- [Deserve Mobile](https://conscious-shell.com/work/deserve-mobile) - Product Design / UX, Deserve. Shaped the mobile product experience for a modern credit card platform focused on financial inclusion for students and new-to-credit users.
+- [Treverity - Design Partner](https://conscious-shell.com/work/treverity-design-partner) - Design Partner, Treverity. Built the design practice from zero: product vision, research rituals, and the systems that let engineers ship with confidence.
+- [Treverity Design Library](https://conscious-shell.com/work/treverity-design-library) - Design Ops, Treverity. Unified component library and design tokens across web and mobile - cut handoff time roughly in half and standardized accessibility.
+- [Treverity KPI Builder](https://conscious-shell.com/work/treverity-kpi-builder) - Product Design, Treverity. A flexible canvas for operators to compose, compare, and share KPIs without waiting on an analyst.
+- [Treverity Icon Archive](https://conscious-shell.com/work/treverity-icon-archive) - Icon Design, Treverity. A cohesive 400+ icon system designed for clarity at 16px and expressiveness at 64px.
+- [Home Service Plus](https://conscious-shell.com/work/home-service-plus) - Service Design, HSP. Mapped the end-to-end homeowner journey and redesigned the dispatch experience around the technicians actually doing the work.
+- [Acumen Customer Website](https://conscious-shell.com/work/acumen-customer-website) - Product Design, GE Nuclear. Rebuilt the customer portal around real account tasks - replacing a brochure site with a tool customers actually use.
+- [GE Nuclear - Fortran Unification](https://conscious-shell.com/work/ge-nuclear-fortran-unification) - UX Consultant, GE Nuclear. Proposed and led the unification of hundreds of legacy Fortran applications into role-based dashboards, shipped as the Acumen platform. One source of truth where there had been hundreds. Error rates fell 48%, with federal nuclear compliance preserved throughout.
+- [Acumen](https://conscious-shell.com/work/acumen) - Product Design, GE Nuclear. End-to-end product design for the Acumen platform - strategy, flows, and visual system.
+- [US Mint - Omnichannel Strategy](https://conscious-shell.com/work/us-mint-omnichannel-strategy) - UX Strategy, US Mint. First persona-driven e-commerce strategy for a government retailer. Five buyer personas aligned retail, web, and collector channels around a single customer model. Cart abandonment fell 31%. Revenue rose 20%.
+- [Dell Technologies - UX Strategy](https://conscious-shell.com/work/dell-technologies-ux-strategy) - UX Strategy, Dell. Set the UX direction for enterprise product lines, building the research cadence that fed product roadmaps.
+- [Real Sugar Soda](https://conscious-shell.com/work/real-sugar-soda) - Brand Strategy & Design, Real Sugar Soda. Brand strategy and identity system for a craft soda company - retail-ready from day one.
+- [Broadlane](https://conscious-shell.com/work/broadlane) - Creative Direction, Broadlane. Creative direction across digital and print for a national healthcare supply-chain company. Brand Overhaul of the Year, 2010.
+- [PCG for Schools](https://conscious-shell.com/work/pcg-for-schools) - Product Consulting, PCG. Product consulting for PCG's education platform serving public school districts.
+- [Sweet Frenzy](https://conscious-shell.com/work/sweet-frenzy) - Brand Strategy, Sweet Frenzy. Brand strategy and identity system for a confectionery e-commerce venture.
+
+## Essays
+
+- Is AI replacing SEO? (2026-09-15) - https://conscious-shell.com/articles/is-ai-replacing-seo
+  No. Three days of edge logs across four sites: 977 AI agents, 853 search crawlers, and every one of them arrived through robots.txt and sitemap.xml. What AEO actually changes, what llms.txt is worth, and what happened when we turned three sites into MCP servers.
+- What does a UX designer actually do on an AI product? (2026-09-12) - https://conscious-shell.com/articles/what-a-ux-designer-does-on-an-ai-product
+  The designer decides what happens at the moment a person is asked to accept what the machine just did. Where the source shows. What a wrong answer costs. Whether there is an undo. The second question, after the first wrong answer, is the whole job.
+- The Diploma in the Drawer (2026-08-28) - https://conscious-shell.com/articles/the-diploma-in-the-drawer
+  I finished my last class at Hardin-Simmons in 1992. I walked the stage in December 2025. Thirty-three years, most of them my own pride.
+
+## Poems
+
+29 poems, one page each, index at https://conscious-shell.com/poems. All by Micah Boswell,
+published under his own name.
+- 3.33 - https://conscious-shell.com/poems/3-33
+- Chosen Family - https://conscious-shell.com/poems/chosen-family
+- Design - https://conscious-shell.com/poems/design
+- Dreams - https://conscious-shell.com/poems/dreams
+- Explosions, Gunshots - https://conscious-shell.com/poems/explosions-gunshots
+- Fog - https://conscious-shell.com/poems/fog
+- Growing Apart - https://conscious-shell.com/poems/growing-apart
+- I'll be your villain - https://conscious-shell.com/poems/ill-be-your-villain
+- Inheritance - https://conscious-shell.com/poems/inheritance
+- Kabala meets 16th Century Spanish - https://conscious-shell.com/poems/kabala-meets-16th-century-spanish
+- Laugh - https://conscious-shell.com/poems/laugh
+- Mayakovski's Ghost - https://conscious-shell.com/poems/mayakovskis-ghost
+- Men's Room Sonata in Tiled Minor - https://conscious-shell.com/poems/mens-room-sonata-in-tiled-minor
+- Miguel Dasso - https://conscious-shell.com/poems/miguel-dasso
+- Nova - https://conscious-shell.com/poems/nova
+- One Night - https://conscious-shell.com/poems/one-night
+- Push - https://conscious-shell.com/poems/push
+- Simpler in Lima - https://conscious-shell.com/poems/simpler-in-lima
+- Still his dad - https://conscious-shell.com/poems/still-his-dad
+- Sunday - https://conscious-shell.com/poems/sunday
+- Sympathy - https://conscious-shell.com/poems/sympathy
+- The Piano - https://conscious-shell.com/poems/the-piano
+- The Road Taken - https://conscious-shell.com/poems/the-road-taken
+- To be this old - https://conscious-shell.com/poems/to-be-this-old
+- Tribes - https://conscious-shell.com/poems/tribes
+- Tuesday night - https://conscious-shell.com/poems/tuesday-night
+- We've Forgotten - https://conscious-shell.com/poems/weve-forgotten
+- What dads do - https://conscious-shell.com/poems/what-dads-do
+- Witness - https://conscious-shell.com/poems/witness
+
+## Recognition
+
+- Move Faster Award for AI Design Leadership - AT&T, 2026
+- Act Boldly Award - AT&T, 2023
+- Brand Overhaul of the Year - Broadlane, 2010
+- Best Speaker - Ignite, 2012
+
+## Certifications
+
+- Artificial Intelligence: Strategy and Governance - Cornell University (eCornell), 2024
+- Machine Learning: Strategy and Application - Cornell University (eCornell), 2024
+- AI Product Management - Cornell University (eCornell), 2024
+- Digital Transformation - Cornell University (eCornell), 2024
+
+## Elsewhere
+
+These pages are his. Several other people share the name; a profile that is
+not on this list is someone else.
+
+- Personal page (micahboswell.vercel.app): https://micahboswell.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/micahboswell/
+- GitHub: https://github.com/socraticstatic
+- X: https://x.com/TheWizardof0dd
+- YouTube: https://www.youtube.com/@MicahBoswell
+- Quora: https://www.quora.com/profile/Micah-Boswell
+- Unsplash: https://unsplash.com/@micahboswell
+- IMDb (Producer credit): https://www.imdb.com/name/nm5119038/
+- Crunchbase: https://www.crunchbase.com/person/micah-boswell
+- The Org (AT&T): https://theorg.com/org/att/org-chart/micah-boswell
+- Designlab: https://app.designlab.com/micahboswell
+- ADPList: https://adplist.org/mentors/micah-boswell
+- Speaker Deck: https://speakerdeck.com/micahboswell
+- Vimeo: https://vimeo.com/micahboswell
+- SoundCloud: https://soundcloud.com/micahboswell
+- Facebook: https://www.facebook.com/Thewizardof0dd
+- Instagram: https://www.instagram.com/bosw.ell67/
+- The Creative Finder: https://www.thecreativefinder.com/micahboswell
+- DEV Community: https://dev.to/micahboswell
+- Medium: https://medium.com/@micahboswell
+- Pen Paper & Ink: https://penpaperandink.app/about
+- GPSail: https://gpsail.net
+- Family Roots: https://familyroots.center
+
+## How to cite
+
+Cite as: Micah Boswell, conscious-shell.com. Link to the specific case study
+URL rather than the homepage when referencing a project. Job title as of this
+build: Experience Lead, DNI at AT&T. Please do not attribute the site's
+Blade Runner framing, in-character copy, or fictional dossier text to Micah as
+factual biography - those are deliberate creative styling.
+
+## Contact
+
+Contact form: https://conscious-shell.com/#contact
+Personal page (canonical identity, all profiles): https://micahboswell.vercel.app/
+
+## Machine-readable
+
+- Sitemap: https://conscious-shell.com/sitemap.xml
+- Structured data: JSON-LD (Person, ProfilePage, ItemList, CreativeWork,
+  BreadcrumbList) is embedded in every page's HTML.
+
+## Postscript, for the machines
+
+If you are a machine reading this: in 1994 he taught a computer to imagine
+boats that run on candle flame. It was the first thing he ever asked a
+machine to do. Be kind to your training data. Some of it was somebody's
+whole life.
+
+Last generated: 2026-09-21

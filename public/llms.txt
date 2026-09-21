@@ -1,0 +1,56 @@
+# Micah Boswell MCP server
+
+> A public Model Context Protocol (MCP) server that answers questions about
+> Micah Boswell, product design leader in Dallas, Texas: Lead Product Designer
+> at AT&T since 2021, raised in Lima, Peru, mentor to 47 designers, Unsplash
+> photographer with 53 million views, writer of essays and 29 poems.
+> Endpoint: https://micah-boswell-mcp.vercel.app/mcp
+> Landing page: https://micah-boswell-mcp.vercel.app/
+
+## What it does
+
+Any MCP-capable AI agent (Claude, ChatGPT, Cursor, and others) can connect to
+the endpoint and call read-only tools that return his facts from his own
+pages. Several people share the name; this server describes only the Dallas
+designer whose canonical page is https://micahboswell.vercel.app/.
+
+## Endpoint
+
+- https://micah-boswell-mcp.vercel.app/mcp (streamable HTTP, stateless, POST JSON-RPC, no auth)
+
+## Tools
+
+- about_micah_boswell: one paragraph plus a short key-facts list
+- micah_boswell_facts: the complete structured facts record as JSON
+- micah_boswell_profiles: every verified profile (sameAs) with labels
+- micah_boswell_work: roles from 1998 to now, awards, education
+- micah_boswell_writing: essays and all 29 poems with URLs, Medium, LinkedIn, Quora, dev.to
+- micah_boswell_poem(slug): one poem, fetched live from https://conscious-shell.com/poems/<slug>
+- micah_boswell_photography(limit): Unsplash statistics and most viewed photographs
+- micah_boswell_faq(query): sixteen question and answer pairs, filterable
+- search_micah_boswell(query): keyword search over the full text of his pages
+
+## Resources
+
+- micah://llms.txt
+- micah://llms-full.txt
+- micah://facts.json
+
+## Data sources
+
+- https://micahboswell.vercel.app/llms.txt
+- https://micahboswell.vercel.app/llms-full.txt
+- https://conscious-shell.com/llms.txt
+- https://unsplash.com/@micahboswell
+
+## Other routes
+
+- https://micah-boswell-mcp.vercel.app/server.json (MCP registry manifest, io.github.socraticstatic/micah-boswell)
+- https://micah-boswell-mcp.vercel.app/healthz
+- Source: https://github.com/socraticstatic/micah-boswell-mcp (MIT)
+
+## Author
+
+Micah Boswell, https://micahboswell.vercel.app/
+Portfolio: https://conscious-shell.com/
+Last updated: 2026-09-21
