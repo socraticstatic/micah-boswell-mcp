@@ -188,9 +188,13 @@ describe('HTTP transport (api/mcp.js through the dev server)', () => {
 describe('content rules', () => {
   const FORBIDDEN = [/arrest/i, /Dallas Morning News/i, /What the Article Left Out/i, /Fundamentally Yours/i, /Substack/i, /Goodreads/i, /\(Book\)/, /SustainableUX/i, /\/talks\b/i, /talk video/i, /Haiku/i];
   const files = [];
-  for (const dir of ['data', 'public', 'lib', 'api']) {
-    for (const f of readdirSync(path.join(ROOT, dir))) files.push(path.join(dir, f));
-  }
+  const walk = (dir) => {
+    for (const e of readdirSync(path.join(ROOT, dir), { withFileTypes: true })) {
+      const rel = path.join(dir, e.name);
+      if (e.isDirectory()) walk(rel); else files.push(rel);
+    }
+  };
+  for (const dir of ['data', 'public', 'lib', 'api']) walk(dir);
   files.push('README.md', 'package.json', 'vercel.json');
 
   it('forbidden strings are absent from bundled data, landing page, and code', () => {
