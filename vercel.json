@@ -1,14 +1,51 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "rewrites": [
-    { "source": "/mcp", "destination": "/api/mcp" },
-    { "source": "/healthz", "destination": "/api/healthz" }
+    {
+      "source": "/mcp",
+      "destination": "/api/mcp"
+    },
+    {
+      "source": "/healthz",
+      "destination": "/api/healthz"
+    }
   ],
   "functions": {
-    "api/*.js": { "includeFiles": "data/**" }
+    "api/*.js": {
+      "includeFiles": "data/**"
+    }
   },
   "headers": [
-    { "source": "/llms.txt", "headers": [{ "key": "Content-Type", "value": "text/plain; charset=utf-8" }] },
-    { "source": "/server.json", "headers": [{ "key": "Content-Type", "value": "application/json; charset=utf-8" }] }
+    {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/server.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/.well-known/glama.json",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=300"
+        }
+      ]
+    }
   ]
 }
