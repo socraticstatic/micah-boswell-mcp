@@ -3,8 +3,31 @@
   "name": "io.github.socraticstatic/micah-boswell",
   "title": "Micah Boswell",
   "description": "Facts about Micah Boswell, product design leader in Dallas: work, writing, photography, profiles.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://micah-boswell-mcp.vercel.app/",
+  "icons": [
+    {
+      "src": "https://micah-boswell-mcp.vercel.app/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://micah-boswell-mcp.vercel.app/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    },
+    {
+      "src": "https://micah-boswell-mcp.vercel.app/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/socraticstatic/micah-boswell-mcp",
     "source": "github"

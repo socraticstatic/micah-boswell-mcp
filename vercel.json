@@ -8,6 +8,14 @@
     {
       "source": "/healthz",
       "destination": "/api/healthz"
+    },
+    {
+      "source": "/.well-known/mcp",
+      "destination": "/server.json"
+    },
+    {
+      "source": "/.well-known/mcp/server-card.json",
+      "destination": "/server.json"
     }
   ],
   "functions": {
@@ -44,6 +52,15 @@
         {
           "key": "Cache-Control",
           "value": "public, max-age=300"
+        }
+      ]
+    },
+    {
+      "source": "/(icon-512.png|icon-192.png|icon.svg)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
         }
       ]
     }

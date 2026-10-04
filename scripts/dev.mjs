@@ -15,6 +15,13 @@ const TYPES = {
   '.txt': 'text/plain; charset=utf-8',
   '.json': 'application/json; charset=utf-8',
   '.xml': 'application/xml; charset=utf-8',
+  '.svg': 'image/svg+xml',
+  '.png': 'image/png',
+};
+// Mirrors the rewrites in vercel.json: the discovery document is the card.
+const REWRITES = {
+  '/.well-known/mcp': '/server.json',
+  '/.well-known/mcp/server-card.json': '/server.json',
 };
 
 export function createDevServer() {
@@ -22,7 +29,8 @@ export function createDevServer() {
     const url = new URL(req.url, 'http://localhost');
     if (url.pathname === '/mcp') return mcp(req, res);
     if (url.pathname === '/healthz') return healthz(req, res);
-    const rel = url.pathname === '/' ? 'index.html' : url.pathname.replace(/^\/+/, '');
+    const pathname = REWRITES[url.pathname] || url.pathname;
+    const rel = pathname === '/' ? 'index.html' : pathname.replace(/^\/+/, '');
     const file = path.join(PUBLIC, path.normalize(rel));
     if (!file.startsWith(PUBLIC)) { res.statusCode = 403; return res.end('forbidden'); }
     try {

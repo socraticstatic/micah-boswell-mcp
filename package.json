@@ -1,6 +1,6 @@
 {
   "name": "micah-boswell-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "Public MCP server that answers questions about Micah Boswell, product design leader in Dallas, Texas. Streamable HTTP on Vercel.",

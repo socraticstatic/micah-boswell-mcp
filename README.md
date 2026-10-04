@@ -5,7 +5,7 @@ A public Model Context Protocol (MCP) server that answers questions about Micah 
 
 - Endpoint: `https://micah-boswell-mcp.vercel.app/mcp` (streamable HTTP, stateless, no auth)
 - Landing page: https://micah-boswell-mcp.vercel.app/
-- Registry manifest: https://micah-boswell-mcp.vercel.app/server.json (`io.github.socraticstatic/micah-boswell`)
+- Registry manifest: https://micah-boswell-mcp.vercel.app/server.json (`io.github.socraticstatic/micah-boswell`), also at `/.well-known/mcp/server-card.json`
 - Plain text: https://micah-boswell-mcp.vercel.app/llms.txt
 - Liveness: https://micah-boswell-mcp.vercel.app/healthz
 
@@ -53,7 +53,7 @@ lib/data.js         loads data/
 lib/search.js       paragraph search
 lib/poem.js         live poem fetch + CreativeWork JSON-LD parse
 data/               bundled sources: llms.txt, llms-full.txt, conscious-shell-llms.txt, photography.json, facts.json
-public/             landing page, llms.txt, server.json, robots.txt, sitemap.xml
+public/             landing page, llms.txt, server.json, icons, robots.txt, sitemap.xml
 scripts/dev.mjs     local server mirroring the Vercel routing
 test/               vitest
 ```
@@ -76,13 +76,17 @@ npm run dev       # http://localhost:3939  (MCP at /mcp)
 vercel --prod --yes
 ```
 
-## Publish the repo (run once, by Micah)
+## Release
 
-```bash
-gh repo create socraticstatic/micah-boswell-mcp --public --source=. --push
-```
+One version lives in three places and the tests fail if they disagree: `server.json` (root, read by `mcp-publisher`; `public/server.json` is the served copy), `package.json`, and `VERSION` in `lib/data.js` (what the live server reports).
 
-Then, optionally, submit `public/server.json` to the MCP registry with `mcp-publisher publish` after `mcp-publisher login github`.
+1. Bump all three. Update `data/` if the facts changed and `lastUpdated` in `facts.json`.
+2. `npm test`, then `vercel --prod --yes`, then confirm `https://micah-boswell-mcp.vercel.app/healthz` reports the new version.
+3. `git tag v<version> && git push origin main v<version>`.
+
+`.github/workflows/publish-mcp.yml` then publishes the card to the official MCP Registry (`io.github.socraticstatic/micah-boswell`) over GitHub OIDC. It refuses a tag that disagrees with the card or with what the live server reports. `.github/workflows/ci.yml` runs the tests on every push.
+
+Listings: [official registry](https://registry.modelcontextprotocol.io/v0/servers?search=micah-boswell), [Smithery](https://smithery.ai/servers/smackintosh/micah-boswell), [Glama](https://glama.ai/mcp/connectors/app.vercel.micah-boswell-mcp/micah-boswell). The card is also served at `/.well-known/mcp/server-card.json`.
 
 ## License
 
