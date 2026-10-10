@@ -31,8 +31,8 @@ Lead Product Designer at AT&T since 2021. Architected the Agentic framework,
 a modular system of AI agents that manages the network infrastructure
 lifecycle from provisioning through decommissioning; led AT&T's enterprise AI
 design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend
-by more than $300,000. AT&T Connection Award 2022, 2023, 2024, 2025. Move
-Faster Award for AI Design Leadership, 2026.
+by more than $300,000. AT&T Connection Award four years running, 2023, 2024,
+2025, 2026.
 
 ## Work
 

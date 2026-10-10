@@ -22,7 +22,7 @@ micahboswell.vercel.app
  As of September 2026
  Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He architected the Agentic framework, a modular system of AI agents that manages the infrastructure lifecycle from provisioning through decommissioning, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
 
- Recognized with the AT&T Connection Award four years running, 2022 through 2025, and the 2026 Move Faster Award for AI Design Leadership.
+ Recognized with the AT&T Connection Award four years running, 2023 through 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership, and AI Design Leadership.
 
  Work
 
@@ -184,7 +184,7 @@ micahboswell.vercel.app · en español
  Septiembre de 2026
  Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Diseñó la arquitectura del marco Agentic, un sistema modular de agentes de IA que gestiona el ciclo de vida de la infraestructura desde el aprovisionamiento hasta el retiro, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
 
- Reconocido con el AT&T Connection Award cuatro años seguidos, de 2022 a 2025, y con el Move Faster Award for AI Design Leadership de 2026.
+ Reconocido con el AT&T Connection Award cuatro años seguidos, de 2023 a 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership y AI Design Leadership.
 
  Trayectoria
 
@@ -436,7 +436,6 @@ micahboswell.vercel.app · mentoring
 
  Instructor Advisory Board, CareerFoundry 2020 to 2025
 
- Move Faster Award for AI Design Leadership, AT&T 2026
 
  Questions people ask
 
