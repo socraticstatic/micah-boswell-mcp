@@ -9,26 +9,38 @@ import { fileURLToPath } from 'node:url';
 import { mcpCareer, applyCareer } from '../scripts/lib/career-format.mjs';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
-const canonPath = path.join(ROOT, '..', 'job-hunter', 'data', 'career.json');
+const canonPath = process.env.CAREER_JSON || path.join(ROOT, '..', 'job-hunter', 'data', 'career.json');
 const hasCanon = existsSync(canonPath);
 const career = hasCanon ? JSON.parse(readFileSync(canonPath, 'utf8')) : null;
 const facts = () => JSON.parse(readFileSync(path.join(ROOT, 'data', 'facts.json'), 'utf8'));
 const EM_DASH = String.fromCharCode(0x2014);
+const AWARDS = { list: ['2023-10', '2024-08', '2025-10', '2026-07'].map((date, i) => ({ name: `AT&T Connection Award: Fixture ${i}`, issuer: 'AT&T', date })) };
+const EDUCATION = {
+  education: { degree: 'B.A.', school: 'Hardin-Simmons University', location: 'Abilene, Texas', coursework: '1988-1992', conferred: '2025-12-15' },
+  earlier_education: [{ school: 'Samford University', location: 'Birmingham, Alabama', label: 'Freshman year' }],
+};
 
 describe.skipIf(!hasCanon)('career keys from the canon', () => {
-  it('roles: hub order, Dell via Possible, IMC2 joined', () => {
+  it('roles: every shown role once, newest end first; Dell via Possible, IMC2 joined', () => {
     const { roles } = mcpCareer(career);
-    expect(roles.map((r) => r.org)).toEqual(['AT&T', 'CareerFoundry', 'Wells Fargo', 'Treverity', 'Citi', 'GE Nuclear', 'U.S. Mint',
-      'Hitachi Consulting', 'The Richards Group', 'Dell', 'Broadlane', 'Perot Systems', 'IMC2, NCH and GlaxoSmithKline']);
+    expect(roles.length).toBe(career.roles.filter((r) => r.surfaces?.mcp !== false).length);
+    const ends = roles.map((r) => (r.end == null ? 9999 : r.end));
+    expect(ends).toEqual([...ends].sort((a, b) => b - a));
     expect(roles.find((r) => r.org === 'Dell').note).toBe('via Possible Worldwide');
+    expect(roles.find((r) => r.org === 'IMC2, NCH and GlaxoSmithKline')).toBeTruthy();
     expect(roles.find((r) => r.org === 'CareerFoundry').note).toBe('and its Instructor Advisory Board');
-    expect(roles[0]).toEqual({ years: '2021 to now', start: 2021, end: null, title: 'Lead Product Designer', org: 'AT&T' });
+    expect(roles.find((r) => r.org === 'AT&T')).toEqual({ years: '2021 to now', start: 2021, end: null, title: 'Lead Product Designer', org: 'AT&T' });
     expect(roles.find((r) => r.org === 'Citi')).toEqual({ years: '2016', start: 2016, end: 2016, title: 'UX Innovation Lead', org: 'Citi', note: 'via C2G' });
   });
 
-  it('awards, certifications and education', () => {
-    const c = mcpCareer(career);
-    expect(c.awards).toEqual([{ name: 'AT&T Connection Award', issuer: 'AT&T', years: [2023, 2024, 2025, 2026] }]);
+  it('awards group by name with their years; every canon award year is kept', () => {
+    expect(mcpCareer({ ...career, awards: AWARDS }).awards).toEqual([{ name: 'AT&T Connection Award', issuer: 'AT&T', years: [2023, 2024, 2025, 2026] }]);
+    const years = mcpCareer(career).awards.flatMap((a) => a.years);
+    for (const a of career.awards.list) expect(years).toContain(Number(a.date.slice(0, 4)));
+  });
+
+  it('certifications and education', () => {
+    const c = mcpCareer({ ...career, ...EDUCATION });
     expect(c.certificationsList).toEqual(career.certifications);
     expect(c.education).toEqual([
       { degree: 'Bachelor of Arts', school: 'Hardin-Simmons University', location: 'Abilene, Texas', note: 'Coursework completed 1992; degree conferred December 2025.' },
