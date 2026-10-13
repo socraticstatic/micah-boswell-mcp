@@ -20,7 +20,7 @@ const FORBIDDEN = [/arrest/i, /Dallas Morning News/i, /What the Article Left Out
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36 micah-boswell-mcp-sync';
 
 export function sanitize(text) {
-  const lines = text.replace(/ — /g, ' - ').replace(/—/g, '-').replace(/ \(Book\)/g, '').split('\n');
+  const lines = text.replace(/ \u2014 /g, ' - ').replace(/\u2014/g, '-').replace(/ \(Book\)/g, '').split('\n');
   const out = [];
   for (let i = 0; i < lines.length; ) {
     let j = i + 1;
