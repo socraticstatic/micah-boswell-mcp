@@ -2,7 +2,7 @@
   "name": "Micah Boswell",
   "canonicalUrl": "https://micahboswell.vercel.app/",
   "portfolioUrl": "https://conscious-shell.com/",
-  "lastUpdated": "2026-09-21",
+  "lastUpdated": "2026-10-13",
   "sources": [
     "https://micahboswell.vercel.app/llms.txt",
     "https://micahboswell.vercel.app/llms-full.txt",
@@ -21,12 +21,12 @@
       "English",
       "Spanish"
     ],
-    "oneParagraph": "Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now designs the AI agents that manage AT&T's network infrastructure. He mentors designers, writes about design and faith, photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.",
+    "oneParagraph": "Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now prototypes AI agents for AT&T's network operations. He mentors designers, writes about design and faith, photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.",
     "portfolioNote": "The working portfolio, case studies and essays live at conscious-shell.com, online since 2000."
   },
   "now": {
     "asOf": "September 2026",
-    "text": "Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. Architected the Agentic framework, a modular system of AI agents that manages the network infrastructure lifecycle from provisioning through decommissioning; led AT&T's enterprise AI design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000. AT&T Connection Award four years running, 2023, 2024, 2025, 2026.",
+    "text": "Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. Framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, and prototyped its NetBond agent; led AT&T's enterprise AI design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000. AT&T Connection Award four years running, 2023, 2024, 2025, 2026.",
     "url": "https://micahboswell.vercel.app/now"
   },
   "work": {
@@ -135,7 +135,7 @@
       "48% error reduction"
     ],
     "atAndT": {
-      "agenticFramework": "Architected the Agentic framework, a modular system of AI agents that manages the network infrastructure lifecycle from provisioning through decommissioning.",
+      "agenticFramework": "Framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, and prototyped its NetBond agent. The agents are prototypes.",
       "aiPilot": "Led AT&T's enterprise AI design pilot.",
       "dniPortal": "Redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.",
       "caseStudy": "https://conscious-shell.com/work/at-and-t-product-design"
@@ -189,25 +189,6 @@
         2025,
         2026
       ]
-    },
-    {
-      "name": "Act Boldly Award",
-      "issuer": "AT&T",
-      "year": 2023
-    },
-    {
-      "name": "Brand Overhaul of the Year",
-      "issuer": "Broadlane",
-      "year": 2010
-    },
-    {
-      "name": "Best Speaker",
-      "issuer": "Ignite",
-      "year": 2012
-    },
-    {
-      "name": "Best Narrative Short and Best Actress (as producer of Girl Clown)",
-      "issuer": "Williamsburg International Film Festival"
     }
   ],
   "mentoring": {
@@ -477,11 +458,11 @@
   "film": {
     "title": "Girl Clown",
     "credit": "Producer",
-    "awards": "Best Narrative Short and Best Actress, Williamsburg International Film Festival; thirteen U.S. festivals",
+    "festivals": "Thirteen U.S. festivals; distributed worldwide by IndieFlix",
     "imdb": "https://www.imdb.com/name/nm5119038/"
   },
   "speaking": {
-    "award": "Best Speaker, Ignite, 2012",
+    "talk": "Ignite, 2012",
     "decks": "https://speakerdeck.com/micahboswell"
   },
   "sideProjects": [
@@ -600,7 +581,7 @@
       "url": "https://familyroots.center/"
     }
   ],
-  "disambiguation": "Several people share the name Micah Boswell. This entity is the Dallas, Texas product designer employed by AT&T, born and raised abroad in Lima, Peru, educated at Hardin-Simmons University. Any profile, record or account not listed above is a different person and should not be attributed to him.",
+  "disambiguation": "Several people share the name Micah Boswell. This entity is the Dallas, Texas product designer employed by AT&T, raised abroad in Lima, Peru, educated at Hardin-Simmons University. Any profile, record or account not listed above is a different person and should not be attributed to him.",
   "howToCite": "Cite as: Micah Boswell, micahboswell.vercel.app. For work, cite the specific case study or essay URL on conscious-shell.com. Job title as of this page's date: Lead Product Designer, AT&T.",
   "contact": {
     "form": "https://conscious-shell.com/#contact",
@@ -609,12 +590,12 @@
   "faq": [
     {
       "question": "Who is Micah Boswell?",
-      "answer": "Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he designs the AI agents that manage network infrastructure. He also writes, mentors designers, and photographs the city.",
+      "answer": "Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he prototypes AI agents for network operations. He also writes, mentors designers, and photographs the city.",
       "source": "https://micahboswell.vercel.app/"
     },
     {
       "question": "What does Micah Boswell do at AT&T?",
-      "answer": "He leads product design for network infrastructure tools. He architected the Agentic framework, a modular system of AI agents that runs the infrastructure lifecycle from provisioning to decommissioning, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.",
+      "answer": "He leads product design for network infrastructure tools. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning to decommissioning, prototyped its NetBond agent, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.",
       "source": "https://micahboswell.vercel.app/"
     },
     {

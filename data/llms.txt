@@ -1,9 +1,9 @@
 # Micah Boswell
 
 > Product design leader in Dallas, Texas. Thirty years of enterprise software.
-> Lead Product Designer at AT&T, designing the AI agents that manage network
-> infrastructure. Photographer: 104 photographs on Unsplash, 53 million views,
-> 362,000 downloads, top 10 percent of contributors. Raised in Lima, Peru.
+> Lead Product Designer at AT&T, prototyping AI agents for network operations.
+> Photographer: 104 photographs on Unsplash, 53 million views, 362,000
+> downloads, top 10 percent of contributors. Raised in Lima, Peru.
 > Canonical page: https://micahboswell.vercel.app/
 
 ## Pages on this site
@@ -21,15 +21,15 @@
 
 Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty
 years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and
-others, and now designs the AI agents that manage AT&T's network
-infrastructure. He mentors designers, writes about design and faith,
+others, and now prototypes AI agents for AT&T's network operations. He mentors
+designers, writes about design and faith,
 photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.
 
 ## Now (as of September 2026)
 
-Lead Product Designer at AT&T since 2021. Architected the Agentic framework,
-a modular system of AI agents that manages the network infrastructure
-lifecycle from provisioning through decommissioning; led AT&T's enterprise AI
+Lead Product Designer at AT&T since 2021. Framed an agentic model for network
+operations, AI agents across the lifecycle from provisioning through
+decommissioning, and prototyped its NetBond agent; led AT&T's enterprise AI
 design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend
 by more than $300,000. AT&T Connection Award four years running, 2023, 2024,
 2025, 2026.
@@ -67,8 +67,9 @@ Case studies: https://conscious-shell.com/#work
 ## Photography, film, speaking, mentoring
 
 - Photographs on Unsplash: https://unsplash.com/@micahboswell (104 photographs since 2018, 53,380,492 views, 362,001 downloads, free under the Unsplash License). Page: https://micahboswell.vercel.app/photography
-- Producer, Girl Clown (Best Narrative Short and Best Actress, Williamsburg IFF): https://www.imdb.com/name/nm5119038/
-- Best Speaker, Ignite, 2012. Decks: https://speakerdeck.com/micahboswell
+- Web Story, Micah Boswell in ten photographs (his ten most viewed on Unsplash, one per page): https://micahboswell.vercel.app/stories/micah-boswell-in-ten-photographs
+- Producer, Girl Clown (thirteen U.S. festivals): https://www.imdb.com/name/nm5119038/
+- Ignite talk, 2012. Decks: https://speakerdeck.com/micahboswell
 - Mentor to 47 designers via Designlab, ADPList and CareerFoundry. Details and booking: https://micahboswell.vercel.app/mentoring
 
 ## Education
@@ -101,14 +102,21 @@ Case studies: https://conscious-shell.com/#work
 - https://www.thecreativefinder.com/micahboswell
 - https://dev.to/micahboswell
 - https://medium.com/@micahboswell
+- https://huggingface.co/socraticstatic
 - https://penpaperandink.app/about
 - https://gpsail.net/
 - https://familyroots.center/
 
+## For agents and data
+
+- MCP server that answers questions about him (Streamable HTTP): https://micah-boswell-mcp.vercel.app/mcp (about, facts, profiles, work, writing, poems, photography, FAQ, search). Registry name io.github.socraticstatic/micah-boswell. Source: https://github.com/socraticstatic/micah-boswell-mcp
+- Datasets he publishes: https://conscious-shell.com/datasets (writing corpus, JSON), https://penpaperandink.app/datasets (fountain pen dry times and catalogue, CSV), https://huggingface.co/datasets/socraticstatic/micah-boswell-writing, https://huggingface.co/datasets/socraticstatic/micah-boswell-photography
+- Hugging Face Space: https://huggingface.co/spaces/socraticstatic/micah-boswell
+
 ## Disambiguation
 
 Several people share the name Micah Boswell. This entity is the Dallas, Texas
-product designer employed by AT&T, born and raised abroad in Lima, Peru,
+product designer employed by AT&T, raised abroad in Lima, Peru,
 educated at Hardin-Simmons University. Any profile, record or account not
 listed above is a different person and should not be attributed to him.
 

@@ -13,14 +13,14 @@ micahboswell.vercel.app
 
  In one paragraph
 
- Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now designs the AI agents that manage AT&T's network infrastructure. He mentors designers, writes about design and faith, photographs Dallas at night for Unsplash, where his work has 53 million views and 362,000 downloads and sits in the top 10 percent of contributors, and grew up in Lima, Peru.
+ Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now prototypes AI agents for AT&T's network operations. He mentors designers, writes about design and faith, photographs Dallas at night for Unsplash, where his work has 53 million views and 362,000 downloads and sits in the top 10 percent of contributors, and grew up in Lima, Peru.
 
  The working portfolio, case studies and essays live at conscious-shell.com, online since 2000. This page is the short version, kept current so that the record about him is his.
 
  Now
 
  As of September 2026
- Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He architected the Agentic framework, a modular system of AI agents that manages the infrastructure lifecycle from provisioning through decommissioning, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
+ Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, prototyped its NetBond agent, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
 
  Recognized with the AT&T Connection Award four years running, 2023 through 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership, and AI Design Leadership.
 
@@ -70,13 +70,13 @@ micahboswell.vercel.app
 
  Photographs on Unsplash 104 photographs, 53.4 million views, 362,000 downloads; much of it Dallas neon at night · the photography page
 
- Girl Clown producer; Best Narrative Short and Best Actress, Williamsburg International Film Festival; thirteen U.S. festivals
+ Girl Clown producer; thirteen U.S. festivals
 
  Video on Vimeo and YouTube
 
  Speaking and mentoring
 
- Best Speaker, Ignite 2012 · decks on Speaker Deck
+ Ignite talk 2012 · decks on Speaker Deck
 
  Mentor to 47 designers through Designlab, ADPList and CareerFoundry, where he also sat on the Instructor Advisory Board · how to book
 
@@ -142,11 +142,11 @@ micahboswell.vercel.app
 
  Who is Micah Boswell?
 
- Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he designs the AI agents that manage network infrastructure. He also writes, mentors designers, and photographs the city.
+ Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he prototypes AI agents for network operations. He also writes, mentors designers, and photographs the city.
 
  What does Micah Boswell do at AT&T?
 
- He leads product design for network infrastructure tools. He architected the Agentic framework, a modular system of AI agents that runs the infrastructure lifecycle from provisioning to decommissioning, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.
+ He leads product design for network infrastructure tools. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning to decommissioning, prototyped its NetBond agent, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.
 
  Where is Micah Boswell from?
 
@@ -175,14 +175,14 @@ micahboswell.vercel.app · en español
 
  En un párrafo
 
- Micah Boswell es líder de diseño de producto en Dallas, Texas. Lleva treinta años creando software empresarial para AT&T, Citi, GE, Dell, la Casa de Moneda de Estados Unidos y otros, y hoy diseña los agentes de inteligencia artificial que gestionan la infraestructura de red de AT&T. Es mentor de diseñadores, escribe sobre diseño y fe, fotografía Dallas de noche para Unsplash, donde su obra suma 53 millones de vistas y 362.000 descargas y está entre el 10 por ciento de colaboradores más vistos y creció en Lima, Perú.
+ Micah Boswell es líder de diseño de producto en Dallas, Texas. Lleva treinta años creando software empresarial para AT&T, Citi, GE, Dell, la Casa de Moneda de Estados Unidos y otros, y hoy prototipa agentes de inteligencia artificial para las operaciones de red de AT&T. Es mentor de diseñadores, escribe sobre diseño y fe, fotografía Dallas de noche para Unsplash, donde su obra suma 53 millones de vistas y 362.000 descargas y está entre el 10 por ciento de colaboradores más vistos y creció en Lima, Perú.
 
  El portafolio, los casos de estudio y los ensayos están en conscious-shell.com, en línea desde el año 2000. Esta es la versión corta, en español, para la parte de su vida que empezó en el Perú. La versión en inglés es la página principal.
 
  Ahora
 
  Septiembre de 2026
- Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Diseñó la arquitectura del marco Agentic, un sistema modular de agentes de IA que gestiona el ciclo de vida de la infraestructura desde el aprovisionamiento hasta el retiro, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
+ Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
 
  Reconocido con el AT&T Connection Award cuatro años seguidos, de 2023 a 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership y AI Design Leadership.
 
@@ -230,7 +230,7 @@ micahboswell.vercel.app · en español
 
  Fotografías en Unsplash 104 fotografías, 53.4 millones de vistas, muchas de Dallas de noche, bajo el neón · página de fotografía
 
- Girl Clown productor; Mejor Cortometraje Narrativo y Mejor Actriz en el Williamsburg International Film Festival; trece festivales en Estados Unidos
+ Girl Clown productor; trece festivales en Estados Unidos
 
  Formación
 
@@ -292,11 +292,11 @@ micahboswell.vercel.app · en español
 
  ¿Quién es Micah Boswell?
 
- Micah Boswell es líder de diseño de producto en Dallas, Texas, con treinta años en software empresarial. Es Lead Product Designer en AT&T, donde diseña los agentes de IA que gestionan la infraestructura de red. También escribe, es mentor de diseñadores y fotografía la ciudad.
+ Micah Boswell es líder de diseño de producto en Dallas, Texas, con treinta años en software empresarial. Es Lead Product Designer en AT&T, donde prototipa agentes de IA para las operaciones de red. También escribe, es mentor de diseñadores y fotografía la ciudad.
 
  ¿Qué hace Micah Boswell en AT&T?
 
- Dirige el diseño de producto de las herramientas de infraestructura de red. Diseñó la arquitectura del marco Agentic, un sistema modular de agentes de IA que gestiona el ciclo de vida de la infraestructura desde el aprovisionamiento hasta el retiro, lideró el piloto empresarial de diseño con IA de la compañía y rediseñó los diagnósticos del portal DNI, lo que ahorró más de 300.000 dólares en hardware.
+ Dirige el diseño de producto de las herramientas de infraestructura de red. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de la compañía y rediseñó los diagnósticos del portal DNI, lo que ahorró más de 300.000 dólares en hardware.
 
  ¿De dónde es Micah Boswell?
 
@@ -326,7 +326,7 @@ micahboswell.vercel.app · now
  At work
 
  September 2026
- Lead Product Designer at AT&T, on the tools that run on-premise and cloud network infrastructure. The current work is the Agentic framework, a modular system of AI agents that manages the infrastructure lifecycle from provisioning through decommissioning, and the enterprise pilot that brought AI tools into the design organization. The design question he keeps coming back to: what a person is asked to accept at the moment the machine has just acted, and what the second question is after the first wrong answer.
+ Lead Product Designer at AT&T, on the tools that run on-premise and cloud network infrastructure. The current work is an agentic model for network operations, prototypes of AI agents across the lifecycle from provisioning through decommissioning, and the enterprise pilot that brought AI tools into the design organization. The design question he keeps coming back to: what a person is asked to accept at the moment the machine has just acted, and what the second question is after the first wrong answer.
 
  On the side
 
@@ -420,7 +420,7 @@ micahboswell.vercel.app · mentoring
 
  An hour on a real problem. A portfolio that is not landing. A case study that reads like a process diagram. A stakeholder who will not budge. A flow that tests badly and nobody can say why. The move from senior designer to design lead. Designing for an AI product when the model, not the screen, is the thing being designed.
 
- He works from what the designer brings, not from a syllabus. Thirty years of enterprise software at AT&T, Citi, GE, Dell and the U.S. Mint, and the current job, Lead Product Designer at AT&T, designing the AI agents that manage network infrastructure. English or Spanish. Remote, by video, from Dallas.
+ He works from what the designer brings, not from a syllabus. Thirty years of enterprise software at AT&T, Citi, GE, Dell and the U.S. Mint, and the current job, Lead Product Designer at AT&T, prototyping AI agents for network operations. English or Spanish. Remote, by video, from Dallas.
 
  Where to book
 
