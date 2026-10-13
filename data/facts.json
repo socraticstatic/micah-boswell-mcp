@@ -39,17 +39,18 @@
         "org": "AT&T"
       },
       {
-        "years": "2020 to 2025",
-        "start": 2020,
+        "years": "2019 to 2025",
+        "start": 2019,
         "end": 2025,
-        "title": "Mentor and Instructor Advisory Board",
-        "org": "CareerFoundry"
+        "title": "UX Mentor",
+        "org": "CareerFoundry",
+        "note": "and its Instructor Advisory Board"
       },
       {
         "years": "2020 to 2021",
         "start": 2020,
         "end": 2021,
-        "title": "CX/UX Design Lead",
+        "title": "CX/UX Consultant",
         "org": "Wells Fargo",
         "note": "via Granite Solutions"
       },
@@ -57,7 +58,7 @@
         "years": "2016 to 2020",
         "start": 2016,
         "end": 2020,
-        "title": "VP Experience Design",
+        "title": "VP Experience Design and Board Advisor",
         "org": "Treverity",
         "note": "acquired by ARCOS"
       },
@@ -65,29 +66,32 @@
         "years": "2016",
         "start": 2016,
         "end": 2016,
-        "title": "Senior UX Architect",
-        "org": "Citi"
+        "title": "UX Innovation Lead",
+        "org": "Citi",
+        "note": "via C2G"
       },
       {
         "years": "2012 to 2016",
         "start": 2012,
         "end": 2016,
-        "title": "UX Consultant",
-        "org": "GE Nuclear"
+        "title": "UX Lead",
+        "org": "GE Nuclear",
+        "note": "via Kraybill"
       },
       {
         "years": "2013",
         "start": 2013,
         "end": 2013,
-        "title": "Director, UX Strategy",
-        "org": "U.S. Mint"
+        "title": "UX Consultant Strategist",
+        "org": "U.S. Mint",
+        "note": "via PFSweb"
       },
       {
-        "years": "2012 to 2013",
+        "years": "2012",
         "start": 2012,
-        "end": 2013,
-        "title": "Senior UX Designer",
-        "org": "Hitachi Vantara"
+        "end": 2012,
+        "title": "Lead UX Architect",
+        "org": "Hitachi Consulting"
       },
       {
         "years": "2012",
@@ -122,14 +126,13 @@
         "years": "1998 to 2002",
         "start": 1998,
         "end": 2002,
-        "title": "Design Lead",
+        "title": "Healthcare Design Lead",
         "org": "IMC2 / NCH / GlaxoSmithKline"
       }
     ],
     "note": "Thirteen of those years were independent consulting between full-time roles.",
     "caseStudies": "https://conscious-shell.com/#work",
     "measuredImpact": [
-      "126 products shipped",
       "47 designers mentored",
       "$300K+ hardware savings",
       "48% error reduction"
@@ -155,27 +158,22 @@
     }
   ],
   "certifications": {
-    "summary": "eCornell certificates in AI strategy, AI product management and machine learning, 2024 to 2026.",
+    "summary": "eCornell certificates in AI Strategy, AI for Business Productivity, and AI Applications and Value Creation, 2025 to 2026.",
     "list": [
       {
-        "name": "Artificial Intelligence: Strategy and Governance",
+        "name": "AI Strategy",
         "issuer": "Cornell University (eCornell)",
-        "year": 2024
+        "years": "2025-2026"
       },
       {
-        "name": "Machine Learning: Strategy and Application",
+        "name": "AI for Business Productivity",
         "issuer": "Cornell University (eCornell)",
-        "year": 2024
+        "years": "2025-2026"
       },
       {
-        "name": "AI Product Management",
+        "name": "AI Applications and Value Creation",
         "issuer": "Cornell University (eCornell)",
-        "year": 2024
-      },
-      {
-        "name": "Digital Transformation",
-        "issuer": "Cornell University (eCornell)",
-        "year": 2024
+        "years": "2025-2026"
       }
     ]
   },

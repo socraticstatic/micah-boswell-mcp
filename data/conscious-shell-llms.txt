@@ -8,8 +8,8 @@
 
 Micah Boswell came up through Hardin-Simmons University in Abilene, Texas, and
 started practicing UX in the 1990s, before the label existed. Since then he has
-shipped product across finance, telecom, healthcare, retail, and government -
-126 projects across a couple of eras of the web. Hardin-Simmons University,
+shipped product across finance, telecom, healthcare, retail, and government,
+across a couple of eras of the web. Hardin-Simmons University,
 Bachelor of Arts: coursework completed 1992, degree conferred December 2025
 (the story is the essay The Diploma in the Drawer, linked under Essays).
 
@@ -33,14 +33,9 @@ Instructor Advisory Board member at CareerFoundry.
 
 ## Measured impact
 
-- 126 products shipped
 - 47 designers mentored
 - $300K+ hardware savings
 - 48% error reduction
-
-Projects by decade: 18 in the 2000s, 54 in the 2010s, 54 in the 2020s.
-Discipline mix: product design 92%, design leadership 88%, UX research 85%,
-strategy 78%.
 
 ## Engagements
 
@@ -64,8 +59,8 @@ strategy 78%.
 - [Chart Color System](https://conscious-shell.com/work/chart-color-system) - AI Engineering, Independent. Web builder, npm package, and public MCP server for chart color: a solver and audit for categorical, sequential, and diverging palettes, checked against WCAG 2.2 non-text contrast, color-blind simulation, and grayscale, with honest pass and fail badges.
 - [GP Sailing](https://conscious-shell.com/work/gp-sailing) - AI Engineering, gpsail.net. Season tracker for the F50 foiling catamaran circuit: venues, race-by-race standings, team profiles, and performance data, kept current by scheduled data syncs. A public MCP server at mcp.gpsail.net exposes the schedule and standings to AI assistants, with contract tests against the live endpoint.
 - [TX-30 Congressional Challenge Coin](https://conscious-shell.com/work/tx-30-congressional-challenge-coin) - Visual Design, Texas 30th Congressional District. Winning design in the first TX-30 Congressional Challenge Coin Competition (2024). One idea for a small, struck canvas: the Trinity River runs into the center of the coin, with Reunion Tower, the Margaret Hunt Hill Bridge, Fountain Place, Republic Center Tower and the Texas Star from Fair Park on its banks. The Congresswoman chose it herself for its clean lines and its theme of unity.
-- [Retro OS resume](https://conscious-shell.com/work/retro-os-resume) - Product Design, Independent. Interactive resume styled as six classic operating systems (System 7, Mac OS 9, Windows 3.1, Windows XP, Mac OS X, BeOS) in a single HTML file with no framework and no build step. Period boot sequences, draggable windows, After Dark tribute screensavers, and a test that keeps its facts aligned with the shared registry.
 - [Penumbra Movies](https://conscious-shell.com/work/penumbra-movies) - Product Design, Penumbra Movies. For Penumbra Movies, a Dallas film company (Gloria in the Dark, a 2019 festival winner at Austin Indie Fest, Anaheim and Birmingham): the logo, the website across desktop, tablet and mobile, the poster and press-kit assets, launched January 2020. For Las Damas in 2021: the look-book experience film, the pitch deck, the poster and a Día de los Muertos flyer.
+- [Retro OS resume](https://conscious-shell.com/work/retro-os-resume) - Product Design, Independent. Interactive resume styled as six classic operating systems (System 7, Mac OS 9, Windows 3.1, Windows XP, Mac OS X, BeOS) in a single HTML file with no framework and no build step. Period boot sequences, draggable windows, After Dark tribute screensavers, and a test that keeps its facts aligned with the shared registry.
 - [PCG IMS](https://conscious-shell.com/work/pcg-ims) - Product Design, Public Consulting Group. Hired by Public Consulting Group as portal consultant and strategist for its IMS, June to August 2013. Stakeholder interviews, design concepts A, B and final, the Monday presentation, project plan and status reports. Authored and designed.
 - [Real Sugar Soda Co](https://conscious-shell.com/work/real-sugar-soda-co) - Product Design, Real Sugar Soda Co. Real Sugar Soda Co and Oak Cliff Beverages: brand identity, the label system for every flavor with master builds and print production files, the 6-pack carton, brochure and vector logos, plus iPhone and Apple Watch concepts. 2014 to 2018.
 - [Roy Lipski site](https://conscious-shell.com/work/roy-lipski-site) - Product Design, Roy Lipski. Roy Lipski's personal site, designed in Adobe XD and built, with the image treatments and a final draft reviewed in 2020.
@@ -74,13 +69,13 @@ strategy 78%.
 - [Gas Operations](https://conscious-shell.com/work/gas-operations) - Product Design, Treverity. The gas operations product line: leak management, dispatch situational views, lead clustering on the map, exceptions and outstanding leaks, in light and dark UI. Designed in 2018 and 2019 for CenterPoint Energy.
 - [Utility 360](https://conscious-shell.com/work/utility-360) - Product Design, Treverity. Utility 360: premise and event views that put every outage, service call and crew for an address in one place, on desktop and on the phone, with premise research for the field. Designed from 2019 to 2021.
 - [Treverity - Design Partner](https://conscious-shell.com/work/treverity-design-partner) - VP Experience Design and Board Advisor, Treverity. Began as a Conscious Shell contractor in 2016 and became VP Experience Design and Board Advisor. Built the design practice from zero: product vision, research rituals, design ops and modular libraries for 20+ energy-grid products, 36 launched, among them EDGE, Utility360, Duty Roster, Damage Assessment, Service Center and Home Service Plus. Design work was material to the ARCOS acquisition.
-- [Treverity Design Library](https://conscious-shell.com/work/treverity-design-library) - Design Ops, Treverity. Unified component library and design tokens across web and mobile - cut handoff time roughly in half and standardized accessibility.
+- [Treverity Design Library](https://conscious-shell.com/work/treverity-design-library) - Design Ops, Treverity. Unified component library and design tokens across web and mobile, with accessibility standardized across both.
 - [Treverity KPI Builder](https://conscious-shell.com/work/treverity-kpi-builder) - Product Design, Treverity. A flexible canvas for operators to compose, compare, and share KPIs without waiting on an analyst.
-- [Treverity Icon Archive](https://conscious-shell.com/work/treverity-icon-archive) - Icon Design, Treverity. A cohesive 400+ icon system designed for clarity at 16px and expressiveness at 64px.
+- [Treverity Icon Archive](https://conscious-shell.com/work/treverity-icon-archive) - Icon Design, Treverity. A cohesive icon system designed for clarity at 16px and expressiveness at 64px.
 - [Home Service Plus](https://conscious-shell.com/work/home-service-plus) - Service Design, HSP. Mapped the end-to-end homeowner journey and redesigned the dispatch experience around the technicians actually doing the work.
 - [Acumen Customer Website](https://conscious-shell.com/work/acumen-customer-website) - Product Design, GE Nuclear. Rebuilt the customer portal around real account tasks - replacing a brochure site with a tool customers actually use.
+- [GE Nuclear - Fortran Unification](https://conscious-shell.com/work/ge-nuclear-fortran-unification) - UX Consultant, GE Nuclear. Owned ACUMEN, GE's nuclear core-monitoring platform, end to end from 2012 to 2016: hundreds of legacy Fortran applications unified into role-based dashboards (errors down 48%, federal compliance intact), the usability standards and style guide, the user manual, personas, the product vision and executive decks, a NUREG position paper, and the marketing collateral.
 - [Acumen](https://conscious-shell.com/work/acumen) - Product Design, GE Nuclear. End-to-end product design for the Acumen platform - strategy, flows, and visual system.
-- [GE Nuclear - Fortran Unification](https://conscious-shell.com/work/ge-nuclear-fortran-unification) - UX Consultant, GE Nuclear. Owned ACUMEN, GE's nuclear core-monitoring platform, end to end from 2013 to 2016: hundreds of legacy Fortran applications unified into role-based dashboards (errors down 48%, federal compliance intact), the usability standards and style guide, the user manual, personas, the product vision and executive decks, a NUREG position paper, and the marketing collateral.
 - [US Mint - Omnichannel Strategy](https://conscious-shell.com/work/us-mint-omnichannel-strategy) - UX Strategy, US Mint. Led UX strategy for the U.S. Mint's online store and wrote the strategy itself: "The United States Mint: Strategy and Information Architecture" (v2.5, 32 pages, 2014). Buyer interviews became eight personas, from the Dedicated Numismatist to the Millennial Novice, and the first persona-driven e-commerce strategy for a government retailer. Cart abandonment fell 31% and revenue rose 20%.
 - [Dell Technologies - UX Strategy](https://conscious-shell.com/work/dell-technologies-ux-strategy) - UX Strategy, Dell. Set the UX direction for enterprise product lines, building the research cadence that fed product roadmaps.
 - [Broadlane](https://conscious-shell.com/work/broadlane) - Creative Direction, Broadlane. Creative direction across digital and print for a national healthcare supply-chain company.
@@ -115,10 +110,9 @@ This films, played on this site at https://conscious-shell.com/film
 
 ## Certifications
 
-- Artificial Intelligence: Strategy and Governance - Cornell University (eCornell), 2024
-- Machine Learning: Strategy and Application - Cornell University (eCornell), 2024
-- AI Product Management - Cornell University (eCornell), 2024
-- Digital Transformation - Cornell University (eCornell), 2024
+- AI Strategy - Cornell University (eCornell), 2025-2026
+- AI for Business Productivity - Cornell University (eCornell), 2025-2026
+- AI Applications and Value Creation - Cornell University (eCornell), 2025-2026
 
 ## Elsewhere
 
