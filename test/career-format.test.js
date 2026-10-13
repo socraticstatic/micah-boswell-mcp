@@ -59,6 +59,10 @@ describe.skipIf(!hasCanon)('career keys from the canon', () => {
     expect(out.work.caseStudies).toEqual(facts().work.caseStudies);
   });
 
+  it('a conferred date without a month throws instead of printing undefined', () => {
+    expect(() => mcpCareer({ ...career, ...EDUCATION, education: { ...EDUCATION.education, conferred: '2025' } })).toThrow(/conferred needs a month: 2025/);
+  });
+
   it('no salary and no em dash in the output', () => {
     const all = JSON.stringify(mcpCareer(career));
     expect(all).not.toMatch(/190,000|230,000|\$\d/);

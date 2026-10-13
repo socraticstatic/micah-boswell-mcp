@@ -36,6 +36,7 @@ export function mcpCareer(career) {
   const degree = DEGREES[ed.degree];
   if (!degree) throw new Error(`no degree name for ${ed.degree}`);
   const [cy, cm] = ed.conferred.split('-');
+  if (!MONTHS[Number(cm) - 1]) throw new Error(`conferred needs a month: ${ed.conferred}`);
   const education = [
     { degree, school: ed.school, location: ed.location, note: `Coursework completed ${ed.coursework.split('-').at(-1)}; degree conferred ${MONTHS[Number(cm) - 1]} ${cy}.` },
     ...(career.earlier_education || []).map((e) => ({ degree: e.label, school: e.school, location: e.location })),
