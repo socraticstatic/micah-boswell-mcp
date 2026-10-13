@@ -95,7 +95,7 @@ Instructor Advisory Board member at CareerFoundry.
 This films, played on this site at https://conscious-shell.com/film
 (updated 2026-10-04). One film, made with his own pipeline, which checks every narrated word against the script.
 
-- This is Micah Boswell (6:21): https://conscious-shell.com/film/this-is-micah-boswell.mp4
+- This is Micah Boswell (6:20): https://conscious-shell.com/film/this-is-micah-boswell.mp4
   Micah Boswell's file, read aloud in terminal noir by Helen, his AI assistant. Made with his own film pipeline, filmkit; a transcript gate checked every narrated word against the script.
   Captions: https://conscious-shell.com/film/this-is-micah-boswell.en.vtt
 
