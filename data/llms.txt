@@ -25,9 +25,9 @@ others, and now prototypes AI agents for AT&T's network operations. He mentors
 designers, writes about design and faith,
 photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.
 
-## Now (as of September 2026)
+## Now (as of October 2026)
 
-Lead Product Designer at AT&T since 2021. Framed an agentic model for network
+Lead Product Designer at AT&T since 2021. Led design of NetBond Advanced, now live; its coded prototype was engineering's visual reference and saved months of iteration. Framed an agentic model for network
 operations, AI agents across the lifecycle from provisioning through
 decommissioning, and prototyped its NetBond agent; led AT&T's enterprise AI
 design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend

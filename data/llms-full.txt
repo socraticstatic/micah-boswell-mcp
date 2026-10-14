@@ -19,8 +19,8 @@ micahboswell.vercel.app
 
  Now
 
- As of September 2026
- Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, prototyped its NetBond agent, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
+ As of October 2026
+ Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. He led design of NetBond Advanced, now live; its coded prototype was engineering's visual reference for what to build and saved months of iteration. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, prototyped its NetBond agent, led AT&T's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000.
 
  Recognized with the AT&T Connection Award four years running, 2023 through 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership, and AI Design Leadership.
 
@@ -146,7 +146,7 @@ micahboswell.vercel.app
 
  What does Micah Boswell do at AT&T?
 
- He leads product design for network infrastructure tools. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning to decommissioning, prototyped its NetBond agent, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.
+ He leads product design for network infrastructure tools. He led design of NetBond Advanced, now live, through a coded prototype that engineering used as its visual reference. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning to decommissioning, prototyped its NetBond agent, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.
 
  Where is Micah Boswell from?
 
@@ -181,8 +181,8 @@ micahboswell.vercel.app · en español
 
  Ahora
 
- Septiembre de 2026
- Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
+ Octubre de 2026
+ Lead Product Designer en AT&T desde 2021, en las herramientas que operan la infraestructura de red local y en la nube. Lideró el diseño de NetBond Advanced, ya disponible; su prototipo en código fue la referencia visual de ingeniería para lo que debía construir y ahorró meses de iteración. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de AT&T y rediseñó los diagnósticos del portal DNI, lo que redujo el gasto en hardware en más de 300.000 dólares.
 
  Reconocido con el AT&T Connection Award cuatro años seguidos, de 2023 a 2026: Deep Network Integration Leadership, Setting User Experience Vision, NetBond Advanced Leadership y AI Design Leadership.
 
@@ -296,7 +296,7 @@ micahboswell.vercel.app · en español
 
  ¿Qué hace Micah Boswell en AT&T?
 
- Dirige el diseño de producto de las herramientas de infraestructura de red. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de la compañía y rediseñó los diagnósticos del portal DNI, lo que ahorró más de 300.000 dólares en hardware.
+ Dirige el diseño de producto de las herramientas de infraestructura de red. Lideró el diseño de NetBond Advanced, ya disponible, con un prototipo en código que ingeniería usó como referencia visual. Planteó un modelo agéntico para las operaciones de red, con agentes de IA a lo largo del ciclo de vida desde el aprovisionamiento hasta el retiro, prototipó su agente de NetBond, lideró el piloto empresarial de diseño con IA de la compañía y rediseñó los diagnósticos del portal DNI, lo que ahorró más de 300.000 dólares en hardware.
 
  ¿De dónde es Micah Boswell?
 
@@ -325,8 +325,8 @@ micahboswell.vercel.app · now
 
  At work
 
- September 2026
- Lead Product Designer at AT&T, on the tools that run on-premise and cloud network infrastructure. The current work is an agentic model for network operations, prototypes of AI agents across the lifecycle from provisioning through decommissioning, and the enterprise pilot that brought AI tools into the design organization. The design question he keeps coming back to: what a person is asked to accept at the moment the machine has just acted, and what the second question is after the first wrong answer.
+ October 2026
+ Lead Product Designer at AT&T, on the tools that run on-premise and cloud network infrastructure. NetBond Advanced, whose design he led, is now live; engineering used his coded prototype as the visual reference for what to build. The current work is an agentic model for network operations, prototypes of AI agents across the lifecycle from provisioning through decommissioning, and the enterprise pilot that brought AI tools into the design organization. The design question he keeps coming back to: what a person is asked to accept at the moment the machine has just acted, and what the second question is after the first wrong answer.
 
  On the side
 
