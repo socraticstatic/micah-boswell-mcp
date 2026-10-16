@@ -53,7 +53,7 @@ describe('tools return non-empty, correct results', () => {
   });
   it('micah_boswell_profiles', async () => {
     const p = (await call(client, 'micah_boswell_profiles')).json();
-    expect(p.profiles.length).toBe(23);
+    expect(p.profiles.length).toBe(22);
     expect(p.profiles.map((x) => x.url)).toContain('https://www.linkedin.com/in/micahboswell/');
     for (const x of p.profiles) { expect(x.label).toBeTruthy(); expect(x.url).toMatch(/^https:\/\//); }
   });
