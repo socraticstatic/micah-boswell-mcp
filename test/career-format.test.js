@@ -41,7 +41,7 @@ describe.skipIf(!hasCanon)('career keys from the canon', () => {
 
   it('certifications and education', () => {
     const c = mcpCareer({ ...career, ...EDUCATION });
-    expect(c.certificationsList).toEqual(career.certifications);
+    expect(c.certificationsList).toEqual(career.certifications.map(({ name, issuer, years }) => ({ name, issuer, years })));
     expect(c.education).toEqual([
       { degree: 'Bachelor of Arts', school: 'Hardin-Simmons University', location: 'Abilene, Texas', note: 'Coursework completed 1992; degree conferred December 2025.' },
       { degree: 'Freshman year', school: 'Samford University', location: 'Birmingham, Alabama' },
@@ -77,4 +77,11 @@ it('missing canon exits 2 and writes nothing', () => {
   expect(r.status).toBe(2);
   expect(r.stderr).toMatch(/career\.json not found: \/nonexistent\/career\.json/);
   expect(statSync(file).mtimeMs).toBe(before);
+});
+
+it('certifications.list carries name, issuer and years only; canon-side fields such as audience never reach facts.json', () => {
+  const career = JSON.parse(readFileSync(canonPath, 'utf8'));
+  career.certifications = career.certifications.map((c) => ({ ...c, audience: { reach: ['public'], stance: 'amplify', origin: 'his' } }));
+  const c = mcpCareer(career);
+  for (const item of c.certificationsList) expect(Object.keys(item).sort()).toEqual(['issuer', 'name', 'years']);
 });

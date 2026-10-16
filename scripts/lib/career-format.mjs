@@ -42,7 +42,7 @@ export function mcpCareer(career) {
     ...(career.earlier_education || []).map((e) => ({ degree: e.label, school: e.school, location: e.location })),
   ];
 
-  return { roles, awards, certificationsList: career.certifications, education };
+  return { roles, awards, certificationsList: career.certifications.map(({ name, issuer, years }) => ({ name, issuer, years })), education };
 }
 
 export function applyCareer(facts, career, today) {
