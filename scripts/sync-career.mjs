@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Regenerate work.roles, awards, certifications.list and education in
-// data/facts.json from the career canon (../job-hunter/data/career.json, or
+// data/facts.json from the career canon (../identity/canon/career.json, or
 // $CAREER_JSON). lastUpdated moves only when one of them changes. Run after
 // any career.json change, then `npm test`:
 //   node scripts/sync-career.mjs
@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { applyCareer } from './lib/career-format.mjs';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
-const canonPath = process.env.CAREER_JSON || path.join(ROOT, '..', 'job-hunter', 'data', 'career.json');
+const canonPath = process.env.CAREER_JSON || path.join(ROOT, '..', 'identity', 'canon', 'career.json');
 if (!existsSync(canonPath)) {
   console.error(`career.json not found: ${canonPath}`);
   process.exit(2);

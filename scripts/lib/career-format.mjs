@@ -1,5 +1,5 @@
 // Pure formatters for the career keys of data/facts.json: work.roles, awards,
-// certifications.list and education, all from job-hunter's career.json. The
+// certifications.list and education, all from identity's canon/career.json. The
 // rest of facts.json (case studies, FAQ, summaries) stays hand-written.
 
 const DEGREES = { 'B.A.': 'Bachelor of Arts' };

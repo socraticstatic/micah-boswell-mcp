@@ -1,5 +1,5 @@
 // The career keys of data/facts.json (work.roles, awards, certifications.list,
-// education) come from ../job-hunter/data/career.json through
+// education) come from ../identity/canon/career.json through
 // scripts/sync-career.mjs. When that checkout is absent the canon tests skip.
 import { describe, it, expect } from 'vitest';
 import { readFileSync, existsSync, statSync } from 'node:fs';
@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { mcpCareer, applyCareer } from '../scripts/lib/career-format.mjs';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
-const canonPath = process.env.CAREER_JSON || path.join(ROOT, '..', 'job-hunter', 'data', 'career.json');
+const canonPath = process.env.CAREER_JSON || path.join(ROOT, '..', 'identity', 'canon', 'career.json');
 const hasCanon = existsSync(canonPath);
 const career = hasCanon ? JSON.parse(readFileSync(canonPath, 'utf8')) : null;
 const facts = () => JSON.parse(readFileSync(path.join(ROOT, 'data', 'facts.json'), 'utf8'));
