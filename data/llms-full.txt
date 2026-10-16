@@ -110,8 +110,6 @@ micahboswell.vercel.app
 
  IMDbproducer credit
 
- Crunchbase
-
  The OrgAT&T
 
  Designlabmentor
@@ -259,8 +257,6 @@ micahboswell.vercel.app · en español
  Unsplash@micahboswell
 
  IMDbcrédito de productor
-
- Crunchbase
 
  The OrgAT&T
 
