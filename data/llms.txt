@@ -59,7 +59,7 @@ Case studies: https://conscious-shell.com/#work
   https://conscious-shell.com/articles/is-ai-replacing-seo
   https://conscious-shell.com/articles/the-diploma-in-the-drawer
   https://conscious-shell.com/articles/what-the-article-left-out
-- Poems, twenty-nine of them, one page each: https://conscious-shell.com/poems
+- Poems, eighteen of them, in the writing corpus: https://huggingface.co/datasets/socraticstatic/micah-boswell-writing
 - On Medium: Dreams, https://medium.com/@micahboswell/dreams-825eafc35745
 - Essays on LinkedIn since 2016: https://www.linkedin.com/in/micahboswell/recent-activity/articles/
 - Quora, since 2011, more than a hundred answers: https://www.quora.com/profile/Micah-Boswell
