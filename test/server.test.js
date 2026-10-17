@@ -66,8 +66,9 @@ describe('tools return non-empty, correct results', () => {
   it('micah_boswell_writing', async () => {
     const w = (await call(client, 'micah_boswell_writing')).json();
     expect(w.essays.length).toBe(3);
-    expect(w.poems.length).toBe(29);
-    expect(w.poems.find((p) => p.slug === 'dreams').url).toBe('https://conscious-shell.com/poems/dreams');
+    expect(w.poems.length).toBe(18);
+    expect(w.poems.find((p) => p.slug === 'dreams').url).toBe('https://huggingface.co/datasets/socraticstatic/micah-boswell-writing');
+    for (const t of ['Nova', 'Still his dad', 'What dads do', 'Tuesday night', '3.33', 'Sunday', 'The Piano']) expect(w.poems.map((p) => p.title)).not.toContain(t);
     expect(w.medium.profile).toBe('https://medium.com/@micahboswell');
   });
   it('micah_boswell_photography respects limit', async () => {

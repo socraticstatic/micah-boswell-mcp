@@ -257,153 +257,98 @@
         "summary": "He finished his last class at Hardin-Simmons in 1992 and walked the stage in December 2025. Thirty-three years, most of them his own pride."
       }
     ],
-    "poemsIndex": "https://conscious-shell.com/poems",
-    "poemsCount": 29,
+    "poemsIndex": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing",
+    "poemsCount": 18,
     "poems": [
-      {
-        "title": "3.33",
-        "slug": "3-33",
-        "url": "https://conscious-shell.com/poems/3-33"
-      },
       {
         "title": "Chosen Family",
         "slug": "chosen-family",
-        "url": "https://conscious-shell.com/poems/chosen-family"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Design",
         "slug": "design",
-        "url": "https://conscious-shell.com/poems/design"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Dreams",
         "slug": "dreams",
-        "url": "https://conscious-shell.com/poems/dreams"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Explosions, Gunshots",
         "slug": "explosions-gunshots",
-        "url": "https://conscious-shell.com/poems/explosions-gunshots"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Fog",
         "slug": "fog",
-        "url": "https://conscious-shell.com/poems/fog"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Growing Apart",
         "slug": "growing-apart",
-        "url": "https://conscious-shell.com/poems/growing-apart"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "I'll be your villain",
         "slug": "ill-be-your-villain",
-        "url": "https://conscious-shell.com/poems/ill-be-your-villain"
-      },
-      {
-        "title": "Inheritance",
-        "slug": "inheritance",
-        "url": "https://conscious-shell.com/poems/inheritance"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Kabala meets 16th Century Spanish",
         "slug": "kabala-meets-16th-century-spanish",
-        "url": "https://conscious-shell.com/poems/kabala-meets-16th-century-spanish"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Laugh",
         "slug": "laugh",
-        "url": "https://conscious-shell.com/poems/laugh"
-      },
-      {
-        "title": "Mayakovski's Ghost",
-        "slug": "mayakovskis-ghost",
-        "url": "https://conscious-shell.com/poems/mayakovskis-ghost"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Men's Room Sonata in Tiled Minor",
         "slug": "mens-room-sonata-in-tiled-minor",
-        "url": "https://conscious-shell.com/poems/mens-room-sonata-in-tiled-minor"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Miguel Dasso",
         "slug": "miguel-dasso",
-        "url": "https://conscious-shell.com/poems/miguel-dasso"
-      },
-      {
-        "title": "Nova",
-        "slug": "nova",
-        "url": "https://conscious-shell.com/poems/nova"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "One Night",
         "slug": "one-night",
-        "url": "https://conscious-shell.com/poems/one-night"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Push",
         "slug": "push",
-        "url": "https://conscious-shell.com/poems/push"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Simpler in Lima",
         "slug": "simpler-in-lima",
-        "url": "https://conscious-shell.com/poems/simpler-in-lima"
-      },
-      {
-        "title": "Still his dad",
-        "slug": "still-his-dad",
-        "url": "https://conscious-shell.com/poems/still-his-dad"
-      },
-      {
-        "title": "Sunday",
-        "slug": "sunday",
-        "url": "https://conscious-shell.com/poems/sunday"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Sympathy",
         "slug": "sympathy",
-        "url": "https://conscious-shell.com/poems/sympathy"
-      },
-      {
-        "title": "The Piano",
-        "slug": "the-piano",
-        "url": "https://conscious-shell.com/poems/the-piano"
-      },
-      {
-        "title": "The Road Taken",
-        "slug": "the-road-taken",
-        "url": "https://conscious-shell.com/poems/the-road-taken"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "To be this old",
         "slug": "to-be-this-old",
-        "url": "https://conscious-shell.com/poems/to-be-this-old"
-      },
-      {
-        "title": "Tribes",
-        "slug": "tribes",
-        "url": "https://conscious-shell.com/poems/tribes"
-      },
-      {
-        "title": "Tuesday night",
-        "slug": "tuesday-night",
-        "url": "https://conscious-shell.com/poems/tuesday-night"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "We've Forgotten",
         "slug": "weve-forgotten",
-        "url": "https://conscious-shell.com/poems/weve-forgotten"
-      },
-      {
-        "title": "What dads do",
-        "slug": "what-dads-do",
-        "url": "https://conscious-shell.com/poems/what-dads-do"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       },
       {
         "title": "Witness",
         "slug": "witness",
-        "url": "https://conscious-shell.com/poems/witness"
+        "url": "https://huggingface.co/datasets/socraticstatic/micah-boswell-writing"
       }
     ],
     "medium": {
@@ -453,7 +398,8 @@
       ]
     },
     "devto": "https://dev.to/micahboswell",
-    "writingPage": "https://micahboswell.vercel.app/writing"
+    "writingPage": "https://micahboswell.vercel.app/writing",
+    "poemsNote": "The poems are published in the writing corpus on Hugging Face and have no page of their own. Eleven poems about his family were withdrawn on 2026-10-17."
   },
   "film": {
     "title": "Girl Clown",
