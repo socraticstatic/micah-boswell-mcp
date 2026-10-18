@@ -6,6 +6,8 @@
 > downloads, top 10 percent of contributors. Raised in Lima, Peru.
 > Canonical page: https://micahboswell.vercel.app/
 
+Portrait (300x300 PNG, the same image on every site and profile that is his): https://micahboswell.vercel.app/micah-boswell.png
+
 ## Pages on this site
 
 - https://micahboswell.vercel.app/llms-full.txt (the complete visible text of every page, one file)
