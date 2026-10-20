@@ -42,7 +42,7 @@ describe('tools return non-empty, correct results', () => {
     expect(text).toContain('Micah Boswell is a product design leader in Dallas, Texas');
     expect(text).toContain('Key facts:');
     expect(text).toContain('Lima, Peru');
-    expect(text).toContain('https://micahboswell.vercel.app/');
+    expect(text).toContain('https://micahboswell.design/');
   });
   it('micah_boswell_facts', async () => {
     const f = (await call(client, 'micah_boswell_facts')).json();
@@ -175,7 +175,7 @@ describe('HTTP transport (api/mcp.js through the dev server)', () => {
     const home = await (await fetch(`${base}/`)).text();
     expect(home).toContain('<title>Micah Boswell MCP server</title>');
     expect(home).toContain('"@type": "SoftwareApplication"');
-    expect(home).toContain('https://micahboswell.vercel.app/#person');
+    expect(home).toContain('https://micahboswell.design/#person');
     const llms = await (await fetch(`${base}/llms.txt`)).text();
     expect(llms).toContain('micah-boswell-mcp.vercel.app/mcp');
     const sj = await (await fetch(`${base}/server.json`)).json();
@@ -204,6 +204,12 @@ describe('content rules', () => {
       for (const re of FORBIDDEN) expect(body, `${f} matches ${re}`).not.toMatch(re);
     }
   });
+  it('names the hub at micahboswell.design, never its old Vercel address (moved 2026-10-20)', () => {
+    for (const f of [...files, 'scripts/sync-sources.mjs']) {
+      const body = readFileSync(path.join(ROOT, f), 'utf8');
+      expect(body.includes('micahboswell.vercel.app'), `${f} names micahboswell.vercel.app`).toBe(false);
+    }
+  });
   it('no em dashes (U+2014) anywhere', () => {
     for (const f of files) {
       const body = readFileSync(path.join(ROOT, f), 'utf8');
@@ -217,6 +223,6 @@ describe('content rules', () => {
     expect(d.length).toBeLessThanOrEqual(200);
     expect(html).toContain('<link rel="canonical" href="https://micah-boswell-mcp.vercel.app/">');
     const ld = JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1]);
-    expect(ld.author).toEqual({ '@type': 'Person', '@id': 'https://micahboswell.vercel.app/#person', name: 'Micah Boswell', url: 'https://micahboswell.vercel.app/' });
+    expect(ld.author).toEqual({ '@type': 'Person', '@id': 'https://micahboswell.design/#person', name: 'Micah Boswell', url: 'https://micahboswell.design/' });
   });
 });

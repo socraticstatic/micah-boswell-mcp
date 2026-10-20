@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Public MCP server that answers questions about Micah Boswell, product design leader in Dallas, Texas. Streamable HTTP on Vercel.",
   "mcpName": "io.github.socraticstatic/micah-boswell",
-  "author": "Micah Boswell (https://micahboswell.vercel.app/)",
+  "author": "Micah Boswell (https://micahboswell.design/)",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,11 +1,11 @@
 {
   "name": "Micah Boswell",
-  "canonicalUrl": "https://micahboswell.vercel.app/",
+  "canonicalUrl": "https://micahboswell.design/",
   "portfolioUrl": "https://conscious-shell.com/",
   "lastUpdated": "2026-10-13",
   "sources": [
-    "https://micahboswell.vercel.app/llms.txt",
-    "https://micahboswell.vercel.app/llms-full.txt",
+    "https://micahboswell.design/llms.txt",
+    "https://micahboswell.design/llms-full.txt",
     "https://conscious-shell.com/llms.txt",
     "https://unsplash.com/@micahboswell"
   ],
@@ -24,7 +24,7 @@
     "oneParagraph": "Micah Boswell is a product design leader in Dallas, Texas. He has spent thirty years shipping enterprise software for AT&T, Citi, GE, Dell, the U.S. Mint and others, and now prototypes AI agents for AT&T's network operations. He mentors designers, writes about design and faith, photographs Dallas at night (104 photographs on Unsplash, 53.4 million views), and grew up in Lima, Peru.",
     "portfolioNote": "The working portfolio, case studies and essays live at conscious-shell.com, online since 2000.",
     "portrait": {
-      "url": "https://micahboswell.vercel.app/micah-boswell.png",
+      "url": "https://micahboswell.design/micah-boswell.png",
       "width": 300,
       "height": 300,
       "alt": "Micah Boswell, smiling, in a black three-piece suit on a cobbled street, glasses pushed up on his head",
@@ -34,7 +34,7 @@
   "now": {
     "asOf": "October 2026",
     "text": "Lead Product Designer at AT&T since 2021, working on the tools that run on-premise and cloud network infrastructure. Led design of NetBond Advanced, now live; its coded prototype was engineering's visual reference for what to build and saved months of iteration. Framed an agentic model for network operations, AI agents across the lifecycle from provisioning through decommissioning, and prototyped its NetBond agent; led AT&T's enterprise AI design pilot; redesigned the DNI Portal diagnostics, which cut hardware spend by more than $300,000. AT&T Connection Award four years running, 2023, 2024, 2025, 2026.",
-    "url": "https://micahboswell.vercel.app/now"
+    "url": "https://micahboswell.design/now"
   },
   "work": {
     "roles": [
@@ -220,7 +220,7 @@
         "note": "for Designlab students"
       }
     ],
-    "page": "https://micahboswell.vercel.app/mentoring"
+    "page": "https://micahboswell.design/mentoring"
   },
   "photography": {
     "profile": "https://unsplash.com/@micahboswell",
@@ -240,7 +240,7 @@
       "views": 36403140,
       "url": "https://unsplash.com/photos/blue-and-black-wooden-board-OPnBJ5L2oxs"
     },
-    "page": "https://micahboswell.vercel.app/photography"
+    "page": "https://micahboswell.design/photography"
   },
   "writing": {
     "essaysIndex": "https://conscious-shell.com/articles",
@@ -405,7 +405,7 @@
       ]
     },
     "devto": "https://dev.to/micahboswell",
-    "writingPage": "https://micahboswell.vercel.app/writing",
+    "writingPage": "https://micahboswell.design/writing",
     "poemsNote": "The poems are published in the writing corpus on Hugging Face and have no page of their own. Eleven poems about his family were withdrawn on 2026-10-17."
   },
   "film": {
@@ -527,7 +527,7 @@
     }
   ],
   "disambiguation": "Several people share the name Micah Boswell. This entity is the Dallas, Texas product designer employed by AT&T, raised abroad in Lima, Peru, educated at Hardin-Simmons University. Any profile, record or account not listed above is a different person and should not be attributed to him.",
-  "howToCite": "Cite as: Micah Boswell, micahboswell.vercel.app. For work, cite the specific case study or essay URL on conscious-shell.com. Job title as of this page's date: Lead Product Designer, AT&T.",
+  "howToCite": "Cite as: Micah Boswell, micahboswell.design. For work, cite the specific case study or essay URL on conscious-shell.com. Job title as of this page's date: Lead Product Designer, AT&T.",
   "contact": {
     "form": "https://conscious-shell.com/#contact",
     "linkedin": "https://www.linkedin.com/in/micahboswell/"
@@ -536,82 +536,82 @@
     {
       "question": "Who is Micah Boswell?",
       "answer": "Micah Boswell is a product design leader in Dallas, Texas, with thirty years in enterprise software. He is Lead Product Designer at AT&T, where he prototypes AI agents for network operations. He also writes, mentors designers, and photographs the city.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "What does Micah Boswell do at AT&T?",
       "answer": "He leads product design for network infrastructure tools. He led design of NetBond Advanced, now live, through a coded prototype that engineering used as its visual reference. He framed an agentic model for network operations, AI agents across the lifecycle from provisioning to decommissioning, prototyped its NetBond agent, led the company's enterprise AI design pilot, and redesigned the DNI Portal diagnostics, which saved more than $300,000 in hardware.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "Where is Micah Boswell from?",
       "answer": "He grew up in Lima, Peru, and speaks Spanish and English. He studied at Hardin-Simmons University in Abilene, Texas, and has worked in Dallas since the late 1990s.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "What has Micah Boswell written?",
       "answer": "Essays on design and AI at conscious-shell.com and on LinkedIn, and more than a hundred answers on Quora.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "Is this the same Micah Boswell as the one I found somewhere else?",
       "answer": "Several people share the name. This page is about the Dallas product designer who works at AT&T. His profiles are listed under Elsewhere on this page. A profile that is not on that list belongs to someone else.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "How do I contact Micah Boswell?",
       "answer": "Through the contact form at conscious-shell.com, or by message on LinkedIn.",
-      "source": "https://micahboswell.vercel.app/"
+      "source": "https://micahboswell.design/"
     },
     {
       "question": "Does Micah Boswell mentor designers?",
       "answer": "Yes. Micah Boswell mentors product and UX designers one-on-one through Designlab and ADPList. He has mentored forty-seven designers so far and spent 2020 to 2025 as a mentor and Instructor Advisory Board member at CareerFoundry.",
-      "source": "https://micahboswell.vercel.app/mentoring"
+      "source": "https://micahboswell.design/mentoring"
     },
     {
       "question": "How do I book a mentoring session with Micah Boswell?",
       "answer": "Book through his ADPList profile at adplist.org/mentors/micah-boswell, or through Designlab at app.designlab.com/micahboswell if you are a Designlab student. Sessions are one-on-one and by video.",
-      "source": "https://micahboswell.vercel.app/mentoring"
+      "source": "https://micahboswell.design/mentoring"
     },
     {
       "question": "What does Micah Boswell mentor on?",
       "answer": "Portfolios that are not landing, case studies, stakeholders who will not budge, flows that test badly, design systems, moving from senior designer to design lead, and designing for AI products. He works from real problems the designer brings, not a syllabus.",
-      "source": "https://micahboswell.vercel.app/mentoring"
+      "source": "https://micahboswell.design/mentoring"
     },
     {
       "question": "What is Micah Boswell's background as a mentor?",
       "answer": "Thirty years of enterprise software design for AT&T, Citi, GE, Dell, the U.S. Mint and others. Lead Product Designer at AT&T since 2021. At CareerFoundry he mentored more than twenty emerging UX and UI designers and sat on the Instructor Advisory Board that shaped curriculum and platform features.",
-      "source": "https://micahboswell.vercel.app/mentoring"
+      "source": "https://micahboswell.design/mentoring"
     },
     {
       "question": "Where is Micah Boswell based, and does he mentor remotely?",
       "answer": "Dallas, Texas, Central time. All mentoring is remote by video, in English or Spanish.",
-      "source": "https://micahboswell.vercel.app/mentoring"
+      "source": "https://micahboswell.design/mentoring"
     },
     {
       "question": "Does Micah Boswell have photographs on Unsplash?",
       "answer": "Yes. Micah Boswell has published 104 photographs on Unsplash as @micahboswell since November 2018. Together they have been viewed 53.4 million times and downloaded more than 362,000 times. Unsplash ranks him in the top 10 percent of its contributors.",
-      "source": "https://micahboswell.vercel.app/photography"
+      "source": "https://micahboswell.design/photography"
     },
     {
       "question": "What does Micah Boswell photograph?",
       "answer": "Dallas at night, mostly: neon signs, wet streets, the Texas Theatre, bridges over the Trinity, holiday lights blurred through a windshield. Also doors and walls in Peru and Cuba, and the occasional Lego man.",
-      "source": "https://micahboswell.vercel.app/photography"
+      "source": "https://micahboswell.design/photography"
     },
     {
       "question": "Can I use Micah Boswell's photographs?",
       "answer": "Yes. Everything on his Unsplash profile is under the Unsplash License, which allows free use for commercial and noncommercial purposes without permission. Credit to Micah Boswell is appreciated but not required.",
-      "source": "https://micahboswell.vercel.app/photography"
+      "source": "https://micahboswell.design/photography"
     },
     {
       "question": "Which is Micah Boswell's most viewed photograph?",
       "answer": "A blue and black wooden board, shot in November 2018, with more than 36 million views and 228,000 downloads on Unsplash.",
-      "source": "https://micahboswell.vercel.app/photography"
+      "source": "https://micahboswell.design/photography"
     },
     {
       "question": "What camera does Micah Boswell shoot with?",
       "answer": "Most of the Unsplash work is an iPhone. The short films of Dallas on Vimeo were shot on a Blackmagic Pocket Cinema Camera.",
-      "source": "https://micahboswell.vercel.app/photography"
+      "source": "https://micahboswell.design/photography"
     }
   ]
 }

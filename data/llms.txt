@@ -4,20 +4,21 @@
 > Lead Product Designer at AT&T, prototyping AI agents for network operations.
 > Photographer: 104 photographs on Unsplash, 53 million views, 362,000
 > downloads, top 10 percent of contributors. Raised in Lima, Peru.
-> Canonical page: https://micahboswell.vercel.app/
+> Canonical page: https://micahboswell.design/
 
-Portrait (300x300 PNG, the same image on every site and profile that is his): https://micahboswell.vercel.app/micah-boswell.png
+Portrait (300x300 PNG, the same image on every site and profile that is his): https://micahboswell.design/micah-boswell.png
 
 ## Pages on this site
 
-- https://micahboswell.vercel.app/llms-full.txt (the complete visible text of every page, one file)
+- https://micahboswell.design/llms-full.txt (the complete visible text of every page, one file)
 
-- https://micahboswell.vercel.app/ (English home, canonical)
-- https://micahboswell.vercel.app/es (the same page in Spanish)
-- https://micahboswell.vercel.app/now (what he is working on, dated)
-- https://micahboswell.vercel.app/writing (every essay, article and answer, with links)
-- https://micahboswell.vercel.app/mentoring (mentoring: what a session is, where to book, the record, FAQ)
-- https://micahboswell.vercel.app/photography (his Unsplash photography: numbers, most viewed, collections, license, FAQ)
+- https://micahboswell.design/ (English home, canonical)
+- https://micahboswell.design/es (the same page in Spanish)
+- https://micahboswell.design/now (what he is working on, dated)
+- https://micahboswell.design/writing (every essay, article and answer, with links)
+- https://micahboswell.design/writing/poems (eighteen poems, each over one of his photographs; Dreams read in his own voice, 2017)
+- https://micahboswell.design/mentoring (mentoring: what a session is, where to book, the record, FAQ)
+- https://micahboswell.design/photography (his Unsplash photography: numbers, most viewed, collections, license, FAQ)
 
 ## In one paragraph
 
@@ -61,18 +62,19 @@ Case studies: https://conscious-shell.com/#work
   https://conscious-shell.com/articles/is-ai-replacing-seo
   https://conscious-shell.com/articles/the-diploma-in-the-drawer
   https://conscious-shell.com/articles/what-the-article-left-out
-- Poems, eighteen of them, in the writing corpus: https://huggingface.co/datasets/socraticstatic/micah-boswell-writing
+- Poems, eighteen of them, each over one of his photographs, Dreams with his 2017 reading: https://micahboswell.design/writing/poems (also in the writing corpus: https://huggingface.co/datasets/socraticstatic/micah-boswell-writing)
 - On Medium: Dreams, https://medium.com/@micahboswell/dreams-825eafc35745
 - Essays on LinkedIn since 2016: https://www.linkedin.com/in/micahboswell/recent-activity/articles/
 - Quora, since 2011, more than a hundred answers: https://www.quora.com/profile/Micah-Boswell
 
 ## Photography, film, speaking, mentoring
 
-- Photographs on Unsplash: https://unsplash.com/@micahboswell (104 photographs since 2018, 53,380,492 views, 362,001 downloads, free under the Unsplash License). Page: https://micahboswell.vercel.app/photography
-- Web Story, Micah Boswell in ten photographs (his ten most viewed on Unsplash, one per page): https://micahboswell.vercel.app/stories/micah-boswell-in-ten-photographs
+- Photographs on Unsplash: https://unsplash.com/@micahboswell (104 photographs since 2018, 53,380,492 views, 362,001 downloads, free under the Unsplash License). Page: https://micahboswell.design/photography
+- Web Story, Micah Boswell in ten photographs (his ten most viewed on Unsplash, one per page): https://micahboswell.design/stories/micah-boswell-in-ten-photographs
+- Creative director, Penumbra Movies (2019-2021), the Dallas film company behind Gloria in the Dark (2019 festival winner at Austin Indie Fest, Anaheim and Birmingham): its logo, website, poster and press kit (launched January 2020), then the look-book film, pitch deck and poster for Las Damas (2021)
 - Producer, Girl Clown (thirteen U.S. festivals): https://www.imdb.com/name/nm5119038/
 - Ignite talk, 2012. Decks: https://speakerdeck.com/micahboswell
-- Mentor to 47 designers via Designlab, ADPList and CareerFoundry. Details and booking: https://micahboswell.vercel.app/mentoring
+- Mentor to 47 designers via Designlab, ADPList and CareerFoundry. Details and booking: https://micahboswell.design/mentoring
 
 ## Education
 
@@ -122,7 +124,7 @@ listed above is a different person and should not be attributed to him.
 
 ## How to cite
 
-Cite as: Micah Boswell, micahboswell.vercel.app. For work, cite the specific case
+Cite as: Micah Boswell, micahboswell.design. For work, cite the specific case
 study or essay URL on conscious-shell.com. Job title as of this page's date:
 Lead Product Designer, AT&T.
 

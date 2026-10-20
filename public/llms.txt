@@ -12,7 +12,7 @@
 Any MCP-capable AI agent (Claude, ChatGPT, Cursor, and others) can connect to
 the endpoint and call read-only tools that return his facts from his own
 pages. Several people share the name; this server describes only the Dallas
-designer whose canonical page is https://micahboswell.vercel.app/.
+designer whose canonical page is https://micahboswell.design/.
 
 ## Endpoint
 
@@ -38,8 +38,8 @@ designer whose canonical page is https://micahboswell.vercel.app/.
 
 ## Data sources
 
-- https://micahboswell.vercel.app/llms.txt
-- https://micahboswell.vercel.app/llms-full.txt
+- https://micahboswell.design/llms.txt
+- https://micahboswell.design/llms-full.txt
 - https://conscious-shell.com/llms.txt
 - https://unsplash.com/@micahboswell
 
@@ -51,6 +51,6 @@ designer whose canonical page is https://micahboswell.vercel.app/.
 
 ## Author
 
-Micah Boswell, https://micahboswell.vercel.app/
+Micah Boswell, https://micahboswell.design/
 Portfolio: https://conscious-shell.com/
 Last updated: 2026-09-21

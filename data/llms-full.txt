@@ -1,11 +1,11 @@
-# Micah Boswell: full text of micahboswell.vercel.app
+# Micah Boswell: full text of micahboswell.design
 
-This file is the complete visible text of every page on the site, for language models and answer engines. Canonical summary: https://micahboswell.vercel.app/llms.txt
+This file is the complete visible text of every page on the site, for language models and answer engines. Canonical summary: https://micahboswell.design/llms.txt
 
 
-## https://micahboswell.vercel.app/
+## https://micahboswell.design/
 
-micahboswell.vercel.app
+micahboswell.design
 
  Micah Boswell
 
@@ -69,6 +69,8 @@ micahboswell.vercel.app
  Photography and film
 
  Photographs on Unsplash 104 photographs, 53.4 million views, 362,000 downloads; much of it Dallas neon at night · the photography page
+
+ Penumbra Movies creative director for the Dallas film company behind Gloria in the Dark, a 2019 festival winner at Austin Indie Fest, Anaheim and Birmingham: its logo, website, poster and press kit, launched January 2020; then the look-book film, pitch deck and poster for Las Damas (2021)
 
  Girl Clown producer; thirteen U.S. festivals
 
@@ -161,9 +163,9 @@ micahboswell.vercel.app
  Through the contact form at conscious-shell.com, or by message on LinkedIn.
 
 
-## https://micahboswell.vercel.app/es
+## https://micahboswell.design/es
 
-micahboswell.vercel.app · en español
+micahboswell.design · en español
 
  Micah Boswell
 
@@ -225,6 +227,8 @@ micahboswell.vercel.app · en español
  Fotografía y cine
 
  Fotografías en Unsplash 104 fotografías, 53.4 millones de vistas, muchas de Dallas de noche, bajo el neón · página de fotografía
+
+ Penumbra Movies director creativo de la productora de cine de Dallas detrás de Gloria in the Dark, ganadora en 2019 en Austin Indie Fest, Anaheim y Birmingham: su logo, sitio web, póster y kit de prensa (enero de 2020); luego el film look-book, el pitch deck y el póster de Las Damas (2021)
 
  Girl Clown productor; trece festivales en Estados Unidos
 
@@ -307,9 +311,9 @@ micahboswell.vercel.app · en español
  Por el formulario de contacto de conscious-shell.com o por mensaje en LinkedIn.
 
 
-## https://micahboswell.vercel.app/now
+## https://micahboswell.design/now
 
-micahboswell.vercel.app · now
+micahboswell.design · now
 
  Now
 
@@ -345,9 +349,9 @@ micahboswell.vercel.app · now
  Dallas, Texas. Downtown. Photographing it at night when the streets are wet, for Unsplash, where the photographs have passed 53.4 million views. The photography page.
 
 
-## https://micahboswell.vercel.app/writing
+## https://micahboswell.design/writing
 
-micahboswell.vercel.app · writing
+micahboswell.design · writing
 
  Writing
 
@@ -400,9 +404,9 @@ micahboswell.vercel.app · writing
  Since January 2011: more than 120 answers and 400,000 content views on his Quora profile. The topics he answers most are user experience design, user interfaces, music, New Wave, and Dallas. He runs two Quora Spaces: eCommerce UX and Media Anthropology.
 
 
-## https://micahboswell.vercel.app/mentoring
+## https://micahboswell.design/mentoring
 
-micahboswell.vercel.app · mentoring
+micahboswell.design · mentoring
 
  Mentoring
 
@@ -452,9 +456,9 @@ micahboswell.vercel.app · mentoring
  Dallas, Texas, Central time. All mentoring is remote by video, in English or Spanish.
 
 
-## https://micahboswell.vercel.app/photography
+## https://micahboswell.design/photography
 
-micahboswell.vercel.app · photography
+micahboswell.design · photography
 
  Photography
 

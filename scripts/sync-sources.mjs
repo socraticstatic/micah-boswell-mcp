@@ -9,8 +9,8 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SOURCES = [
-  ['https://micahboswell.vercel.app/llms.txt', 'data/llms.txt'],
-  ['https://micahboswell.vercel.app/llms-full.txt', 'data/llms-full.txt'],
+  ['https://micahboswell.design/llms.txt', 'data/llms.txt'],
+  ['https://micahboswell.design/llms-full.txt', 'data/llms-full.txt'],
   ['https://conscious-shell.com/llms.txt', 'data/conscious-shell-llms.txt'],
 ];
 // Keep in step with FORBIDDEN in test/server.test.js. Lives here, not in lib/,
