@@ -16,7 +16,7 @@ Portrait (300x300 PNG, the same image on every site and profile that is his): ht
 - https://micahboswell.design/es (the same page in Spanish)
 - https://micahboswell.design/now (what he is working on, dated)
 - https://micahboswell.design/writing (every essay, article and answer, with links)
-- https://micahboswell.design/writing/poems (eighteen poems, each over one of his photographs; Dreams read in his own voice, 2017)
+- https://micahboswell.design/writing/poems (twelve poems, each over one of his photographs; Dreams read in his own voice, 2017)
 - https://micahboswell.design/mentoring (mentoring: what a session is, where to book, the record, FAQ)
 - https://micahboswell.design/photography (his Unsplash photography: numbers, most viewed, collections, license, FAQ)
 
@@ -62,7 +62,7 @@ Case studies: https://conscious-shell.com/#work
   https://conscious-shell.com/articles/is-ai-replacing-seo
   https://conscious-shell.com/articles/the-diploma-in-the-drawer
   https://conscious-shell.com/articles/what-the-article-left-out
-- Poems, eighteen of them, each over one of his photographs, Dreams with his 2017 reading: https://micahboswell.design/writing/poems (also in the writing corpus: https://huggingface.co/datasets/socraticstatic/micah-boswell-writing)
+- Poems, twelve of them, each over one of his photographs, Dreams with his 2017 reading: https://micahboswell.design/writing/poems (also in the writing corpus: https://huggingface.co/datasets/socraticstatic/micah-boswell-writing)
 - On Medium: Dreams, https://medium.com/@micahboswell/dreams-825eafc35745
 - Essays on LinkedIn since 2016: https://www.linkedin.com/in/micahboswell/recent-activity/articles/
 - Quora, since 2011, more than a hundred answers: https://www.quora.com/profile/Micah-Boswell
@@ -73,6 +73,7 @@ Case studies: https://conscious-shell.com/#work
 - Web Story, Micah Boswell in ten photographs (his ten most viewed on Unsplash, one per page): https://micahboswell.design/stories/micah-boswell-in-ten-photographs
 - Creative director, Penumbra Movies (2019-2021), the Dallas film company behind Gloria in the Dark (2019 festival winner at Austin Indie Fest, Anaheim and Birmingham): its logo, website, poster and press kit (launched January 2020), then the look-book film, pitch deck and poster for Las Damas (2021)
 - Producer, Girl Clown (thirteen U.S. festivals): https://www.imdb.com/name/nm5119038/
+- Co-writer of more than twenty industrial and synthpop tracks, under NDA. The one public credit: Dreams Arise in the Strangest of Places, X-1 featuring Micah Boswell (2019), his poem spoken over the track: https://youtu.be/fs3f9QZN0jo
 - Ignite talk, 2012. Decks: https://speakerdeck.com/micahboswell
 - Mentor to 47 designers via Designlab, ADPList and CareerFoundry. Details and booking: https://micahboswell.design/mentoring
 
