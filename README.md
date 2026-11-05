@@ -1,5 +1,4 @@
 # micah-boswell-mcp 
-[![smithery badge](https://smithery.ai/badge/smackintosh/micah-boswell)](https://smithery.ai/servers/smackintosh/micah-boswell)
 
 A public Model Context Protocol (MCP) server that answers questions about Micah Boswell, product design leader in Dallas, Texas. Any MCP-capable agent (Claude, ChatGPT, Cursor, and others) connects to one URL and gets his facts from his own pages.
 
